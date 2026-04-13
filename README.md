@@ -78,11 +78,11 @@ print(df.head())
 | free.plumbing     | premium   | $500      | $500          | 88             | 54     | 4      | name.com                                    |
 | one.plumbing      | available | $14.99    | $94.99        | 132            | 50     | 3      | name.com                                    |
 | abc.plumbing      | resell    | —         | —             | 102            | 50     | 3      | Dynadot Inc                                 |
-| design.plumbing   | premium   | $500      | $500          | 108            | 50     | 6      | name.com                                    |
+| life.plumbing     | premium   | $520      | $520          | 84             | 50     | 4      | namecheap                                   |
 | game.plumbing     | available | $14.99    | $94.99        | 120            | 50     | 4      | name.com                                    |
 | and.plumbing      | resell    | —         | —             | 108            | 48     | 3      | Porkbun LLC                                 |
-| life.plumbing     | premium   | $520      | $520          | 84             | 50     | 4      | namecheap                                   |
-| clear.plumbing    | available | $14.99    | $94.99        | 90             | 49     | 5      | name.com                                    |
+| design.plumbing   | premium   | $500      | $500          | 108            | 49     | 6      | name.com                                    |
+| simple.plumbing   | available | $14.99    | $94.99        | 128            | 49     | 6      | name.com                                    |
 | awesome.plumbing  | resell    | —         | —             | 98             | 44     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
