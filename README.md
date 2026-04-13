@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .plumbing one-word domains from Un
 
 **Public extract:** 9,691 rows · **Live catalog:** 9,691 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/plumbing`  
 **Best for:** founders, investors, studios
 
@@ -71,10 +71,10 @@ print(df.head())
 | the.plumbing      | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                   |
 | cloud.plumbing    | premium   | $520      | $520          | 70             | 59     | 5      | namecheap                                   |
 | art.plumbing      | available | $89.98    | —             | 90             | 52     | 3      | namecheap                                   |
-| better.plumbing   | resell    | —         | —             | 110            | 56     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| better.plumbing   | resell    | —         | —             | 110            | 54     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 | live.plumbing     | premium   | $500      | $500          | 108            | 56     | 4      | name.com                                    |
 | daniel.plumbing   | available | $14.99    | —             | 76             | 51     | 6      | name.com                                    |
-| best.plumbing     | resell    | —         | —             | 82             | 53     | 4      | Spaceship, Inc.                             |
+| best.plumbing     | resell    | —         | —             | 82             | 52     | 4      | Spaceship, Inc.                             |
 | free.plumbing     | premium   | $500      | $500          | 88             | 54     | 4      | name.com                                    |
 | one.plumbing      | available | $14.99    | $94.99        | 132            | 50     | 3      | name.com                                    |
 | abc.plumbing      | resell    | —         | —             | 102            | 50     | 3      | Dynadot Inc                                 |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
