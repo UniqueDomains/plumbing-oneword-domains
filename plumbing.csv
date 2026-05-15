@@ -471,6 +471,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 28b68804-e2ab-46a6-870b-a91eae74014f,recaptured.plumbing,available,14.99,,48,2,10,name.com,,
 28c19658-c2e8-4a4c-b5b9-89a93059ac94,votes.plumbing,available,14.99,,60,11,5,name.com,,
 28fab9eb-057d-4cd5-a435-76bce438968b,meals.plumbing,available,14.99,,68,15,5,name.com,,
+28fceee0-a5d7-42d4-867c-28ecdac90efc,LongIsland.plumbing,available,14.99,,62,22,11,name.com,,
 29262583-1fb4-47c5-aaf2-e6fbce411340,performed.plumbing,available,14.99,,58,3,9,name.com,,
 292e4380-7a85-4f09-b4f6-32944055667f,bankers.plumbing,available,14.99,,52,11,7,name.com,,
 29465418-b301-4d4e-a45b-3c52adf08cb4,letsgo.plumbing,available,14.99,,57,31,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a7bed8d-8dca-465e-82f1-03319d943f1b,Qtips.plumbing,available,89.98,,60,4,6,namecheap,,
 5a9f6913-ef69-4064-9488-0bb65b1c45e3,likeso.plumbing,available,14.99,,52,1,7,name.com,,
 5aa8211f-180a-465f-a042-07f26fb42776,neuroscience.plumbing,available,14.99,,80,37,12,name.com,,
-5ab8b7eb-f218-424c-b165-f0abbf99b541,opinions.plumbing,available,14.99,,62,11,8,name.com,,
