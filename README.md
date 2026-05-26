@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .plumbing one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,668 domains · **Median ask:** $24.13 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/plumbing`  
 **Best for:** founders, investors, studios
 
@@ -67,12 +67,12 @@ print(df.head())
 | Trex.plumbing      | available | $89.98    | —             | 80             | 24     | 5      | namecheap        |
 | WiFi.plumbing      | available | $89.98    | —             | 83             | 37     | 5      | namecheap        |
 | geton.plumbing     | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| popup.plumbing     | available | $14.99    | —             | 84             | 29     | 6      | name.com         |
+| popup.plumbing     | available | $14.99    | —             | 84             | 28     | 6      | name.com         |
 | Apples.plumbing    | available | $89.98    | —             | 90             | 16     | 6      | namecheap        |
 | edamame.plumbing   | available | $14.99    | —             | 80             | 9      | 7      | name.com         |
 | gearup.plumbing    | available | $14.99    | —             | 80             | 16     | 7      | name.com         |
 | playon.plumbing    | available | $14.99    | —             | 80             | 14     | 7      | name.com         |
-| makeit.plumbing    | available | $14.99    | —             | 82             | 22     | 7      | name.com         |
+| makeit.plumbing    | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
 | pierogi.plumbing   | available | $14.99    | —             | 82             | 7      | 7      | name.com         |
 | stirup.plumbing    | available | $14.99    | —             | 82             | 3      | 7      | name.com         |
 | leaveon.plumbing   | available | $14.99    | —             | 80             | 1      | 8      | name.com         |
@@ -81,8 +81,8 @@ print(df.head())
 | homes.plumbing     | premium   | $500      | —             | 86             | 34     | 5      | name.com         |
 | robots.plumbing    | available | $14.99    | —             | 62             | 47     | 6      | name.com         |
 | schools.plumbing   | premium   | $250      | —             | 72             | 24     | 7      | name.com         |
+| whynot.plumbing    | available | $14.99    | —             | 74             | 44     | 7      | name.com         |
 | shortcuts.plumbing | available | $14.99    | —             | 48             | 41     | 10     | name.com         |
-| whynot.plumbing    | available | $14.99    | —             | 74             | 39     | 7      | name.com         |
 | justin.plumbing    | available | $14.99    | —             | 58             | 38     | 7      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
