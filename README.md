@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .plumbing one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,668 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,668 domains · **Median ask:** $24.13 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,668 domains · **Median ask:** $20.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/plumbing`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/plumbing`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PLUMBING one-word dom
 
 ### Files
 
-- `plumbing.csv` — public CSV extract (1,000 rows)
-- `plumbing.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `plumbing.csv`, public CSV extract (1,000 rows)
+- `plumbing.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Trex.plumbing      | available | $89.98    | —             | 80             | 24     | 5      | namecheap        |
-| WiFi.plumbing      | available | $89.98    | —             | 83             | 37     | 5      | namecheap        |
-| geton.plumbing     | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| popup.plumbing     | available | $14.99    | —             | 84             | 28     | 6      | name.com         |
-| Apples.plumbing    | available | $89.98    | —             | 90             | 16     | 6      | namecheap        |
-| edamame.plumbing   | available | $14.99    | —             | 80             | 9      | 7      | name.com         |
-| gearup.plumbing    | available | $14.99    | —             | 80             | 16     | 7      | name.com         |
-| playon.plumbing    | available | $14.99    | —             | 80             | 14     | 7      | name.com         |
-| makeit.plumbing    | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
-| pierogi.plumbing   | available | $14.99    | —             | 82             | 7      | 7      | name.com         |
-| stirup.plumbing    | available | $14.99    | —             | 82             | 3      | 7      | name.com         |
-| leaveon.plumbing   | available | $14.99    | —             | 80             | 1      | 8      | name.com         |
-| cars.plumbing      | available | $14.99    | —             | 66             | 47     | 4      | name.com         |
-| SanDiego.plumbing  | resell    | —         | —             | 74             | 29     | 9      | GoDaddy.com, LLC |
-| homes.plumbing     | premium   | $500      | —             | 86             | 34     | 5      | name.com         |
-| robots.plumbing    | available | $14.99    | —             | 62             | 47     | 6      | name.com         |
-| schools.plumbing   | premium   | $250      | —             | 72             | 24     | 7      | name.com         |
-| whynot.plumbing    | available | $14.99    | —             | 74             | 44     | 7      | name.com         |
-| shortcuts.plumbing | available | $14.99    | —             | 48             | 41     | 10     | name.com         |
-| justin.plumbing    | available | $14.99    | —             | 58             | 38     | 7      | name.com         |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ash.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| neighborhood.plumbing | resell    | —         | —             | medium         | low    | 12     | GoDaddy.com, LLC |
+| dot.plumbing          | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| bow.plumbing          | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| net.plumbing          | premium   | $500      | —             | high           | medium | 3      | name.com         |
+| boy.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| top.plumbing          | premium   | $500      | —             | high           | medium | 3      | name.com         |
+| des.plumbing          | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| free.plumbing         | premium   | $500      | $500          | high           | medium | 4      | name.com         |
+| dew.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| post.plumbing         | premium   | $500      | —             | high           | medium | 4      | name.com         |
+| dna.plumbing          | available | $14.99    | —             | high           | medium | 3      | name.com         |
+| total.plumbing        | premium   | $82.50    | $82.50        | high           | low    | 5      | name.com         |
+| eye.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| water.plumbing        | premium   | $260      | $260          | high           | medium | 5      | namecheap        |
+| fit.plumbing          | available | $14.99    | —             | high           | medium | 3      | name.com         |
+| madison.plumbing      | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo         |
+| gal.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| network.plumbing      | premium   | $500      | —             | high           | medium | 7      | name.com         |
+| gun.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .plumbing extension, which makes the selection highly specific. Some terms read as direct service signals, while others are broader words that may feel more brandable than descriptive. Examples such as WiFi.plumbing, girls.plumbing, and forces.plumbing show how wide the naming range is inside this set. When comparing these domains, focus first on whether the word has a clear connection to plumbing buyers, then on recall, spelling ease, and whether the term creates avoidable trademark exposure. With a median ask of 24.13, price is less likely to be the main separator than category fit and naming risk.
+This list covers one-word domains registered under the .plumbing extension, a niche TLD built for trade and home-service branding. With 12,668 names and a median asking price near $20, the selection spans everyday nouns, action phrases, and quirky one-word combinations like mealsonwheels.plumbing and solarenergy.plumbing. Because .plumbing is a smaller, non-mainstream extension, ask prices tend to stay low, but renewal costs and trademark overlap still deserve a check before buying.
 
-- Prioritize words with clear plumbing relevance
-- Short, simple terms are easier to remember
-- Check brandability versus narrow descriptiveness
-- Be cautious with terms tied to existing brands
+- 12,668 one-word .plumbing domains available now
+- Median ask near $20 — low entry cost for this niche TLD
+- Ownable one-word names for plumbing & home-service brands
+- Compare renewal costs before buying into a niche extension
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
