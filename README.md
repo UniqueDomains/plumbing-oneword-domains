@@ -1,10 +1,10 @@
-# Available .PLUMBING One-Word Domains (21,243)
+# Available .PLUMBING One-Word Domains (21,784)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C243%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C784%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .plumbing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,243 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,784 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,243 domains · **Median ask:** $21.46 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 21,784 domains · **Median ask:** $22.72 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-10
 **Canonical page:** `https://unique.domains/domains/tld/plumbing`
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,6 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| half.plumbing         | available | $14.99    | —             | high           | low    | 4      | name.com         |
-| quiet.plumbing        | available | $14.99    | —             | high           | low    | 5      | name.com         |
-| here.plumbing         | available | —         | —             | high           | low    | 4      | —                |
-| time.plumbing         | available | $14.99    | —             | high           | medium | 4      | name.com         |
-| perfect.plumbing      | premium   | $500      | —             | high           | low    | 7      | name.com         |
 | ash.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
 | neighborhood.plumbing | resell    | —         | —             | medium         | low    | 12     | GoDaddy.com, LLC |
 | dot.plumbing          | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
@@ -84,6 +79,11 @@ print(df.head())
 | total.plumbing        | premium   | $82.50    | $82.50        | high           | low    | 5      | name.com         |
 | eye.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
 | water.plumbing        | premium   | $242      | $242          | medium         | medium | 5      | namesilo         |
+| fit.plumbing          | available | $14.99    | —             | high           | medium | 3      | name.com         |
+| madison.plumbing      | premium   | $78.54    | $78.54        | medium         | low    | 7      | namesilo         |
+| gal.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| network.plumbing      | premium   | $500      | —             | high           | medium | 7      | name.com         |
+| gun.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,243 live domains                        |
+| 1,000-row public sample | 21,784 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
