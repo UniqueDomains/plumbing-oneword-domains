@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .plumbing one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,916 domains · **Median ask:** $43.06 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/plumbing`
 **Best for:** founders, investors, studios
 
@@ -72,17 +72,17 @@ print(df.head())
 | boy.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
 | top.plumbing          | premium   | $500      | —             | high           | medium | 3      | name.com         |
 | des.plumbing          | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| free.plumbing         | premium   | $500      | $500          | high           | medium | 4      | name.com         |
-| dew.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
 | post.plumbing         | premium   | $500      | —             | high           | medium | 4      | name.com         |
-| dna.plumbing          | available | $14.99    | —             | high           | medium | 3      | name.com         |
+| dew.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
 | total.plumbing        | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo         |
-| eye.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| dna.plumbing          | available | $14.99    | —             | high           | medium | 3      | name.com         |
 | water.plumbing        | premium   | $242      | $242          | medium         | medium | 5      | namesilo         |
-| fit.plumbing          | available | $14.99    | —             | high           | medium | 3      | name.com         |
+| eye.plumbing          | available | $72.99    | $72.99        | low            | low    | 3      | namesilo         |
 | madison.plumbing      | premium   | $78.54    | $78.54        | medium         | low    | 7      | namesilo         |
-| gal.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| fit.plumbing          | available | $14.99    | —             | high           | medium | 3      | name.com         |
 | network.plumbing      | premium   | $512      | $512          | low            | low    | 7      | namesilo         |
+| gal.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| pacific.plumbing      | premium   | $242      | $242          | high           | low    | 7      | namesilo         |
 | gun.plumbing          | available | $14.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
