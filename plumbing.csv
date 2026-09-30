@@ -9,13 +9,13 @@ b159d384-efb6-4dbd-90db-df2a5dbcc4a9,recognition.plumbing,available,72.99,72.99,
 a330c3d0-bf85-46ad-89e6-fd38eb8f3729,lethal.plumbing,available,14.99,94.99,high,low,6,name.com,,,23/08/2026 00:26
 8ca10eb9-6f99-45ca-9376-ba6aba900b02,utc.plumbing,available,72.99,72.99,medium,low,3,namesilo,,,28/09/2026 09:27
 dcad7fb3-e94b-4b23-a7d1-b29f908f2e6c,nonfat.plumbing,available,14.99,94.99,medium,low,6,name.com,,,17/08/2026 23:23
-bff7546e-70f5-4241-857a-1129a58748d5,paneled.plumbing,available,14.99,94.99,medium,low,7,name.com,,,05/09/2026 00:50
+bff7546e-70f5-4241-857a-1129a58748d5,paneled.plumbing,available,14.99,94.99,high,low,7,name.com,,,05/09/2026 00:50
 fce20816-fa1e-4294-b46c-c647c247fd9e,venter.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,16/09/2026 14:46
 ff2f2e56-f107-425e-ab1a-8084917a4978,rickety.plumbing,available,14.99,94.99,medium,low,7,name.com,,,13/08/2026 20:34
 b5d7ec9f-37b5-4893-a62a-610222fe3d80,tactically.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,16/09/2026 07:46
 06588f04-06ab-4473-9ea9-027d2ccc3475,marrying.plumbing,available,56.2,56.2,high,low,8,cloudflare,,,27/09/2026 17:47
 86c69f5d-efeb-4fe6-996c-4f68ce0df75b,constants.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,21/09/2026 01:13
-e43aefce-59ab-4fda-adfb-37d0806a9584,glib.plumbing,available,14.99,94.99,medium,low,4,name.com,,,20/08/2026 14:26
+e43aefce-59ab-4fda-adfb-37d0806a9584,glib.plumbing,available,14.99,94.99,high,low,4,name.com,,,20/08/2026 14:26
 9d97936f-776a-4b29-9302-a12b8b0c99b7,whisper.plumbing,available,72.99,72.99,high,low,7,namesilo,,,13/09/2026 11:38
 fd5addb2-8b30-46e9-85fd-f15b7168d55c,convivial.plumbing,available,14.99,94.99,high,low,9,name.com,,,12/08/2026 23:53
 ff5033e5-ef2d-49a1-8e4a-24a1b66a9982,whimsical.plumbing,available,72.99,72.99,high,low,9,namesilo,,,13/09/2026 11:24
@@ -26,7 +26,7 @@ b6bbbddb-cc22-4d23-b1d8-1e0766a409a3,dan.plumbing,available,72.99,72.99,high,med
 352dd825-9ca4-4a3d-9b95-58e5ac74326c,apiarist.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,19/09/2026 17:19
 bd48f775-2f24-4c25-b716-74a2d7878f86,amaterasu.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,18/09/2026 16:05
 531e4583-0580-484f-b1df-1870c3548bfc,medici.plumbing,available,76.98,89.98,high,low,6,namecheap,,,25/09/2026 23:33
-4ef85a23-cd38-4894-b0c1-6c87f2276dab,girl.plumbing,available,14.99,,high,low,4,name.com,,,
+4ef85a23-cd38-4894-b0c1-6c87f2276dab,girl.plumbing,available,56.2,56.2,high,low,4,cloudflare,,,29/09/2026 13:16
 1c2e3fd6-27eb-41d5-85ea-33aa644d59a8,fittest.plumbing,available,72.99,72.99,high,low,7,namesilo,,,18/09/2026 04:12
 ef58bbff-830f-4655-a4fd-d615c8950732,lendable.plumbing,available,14.99,94.99,medium,low,8,name.com,,,22/08/2026 23:35
 d7a9ace5-79f9-4f20-83f5-e4761f1d4778,tackle.plumbing,available,58.16,58.16,high,low,6,spaceship,,,28/09/2026 05:46
@@ -35,7 +35,7 @@ fbe40fb4-e6bb-44be-bd85-3d1f2f621b40,ottoman.plumbing,available,72.99,72.99,high
 5ddd98ac-2dfb-4702-991c-827c5e50d9f3,overstated.plumbing,available,14.99,94.99,medium,low,10,name.com,,,17/08/2026 15:36
 620a1281-591b-43cf-915f-b5270da92fc3,auxesis.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,21/09/2026 08:33
 d182ed1b-833a-45dd-a459-cb11cfded8c7,premium.plumbing,available,72.99,72.99,high,medium,7,namesilo,,,27/09/2026 05:00
-5ac98858-01a0-4785-9b73-f70e0f0ca983,duke.plumbing,available,14.99,,high,low,4,name.com,,,
+5ac98858-01a0-4785-9b73-f70e0f0ca983,duke.plumbing,available,72.99,72.99,high,medium,4,namesilo,,,29/09/2026 17:06
 d4a6a43d-3878-4d4c-bc83-489e32306ad0,abelard.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,16/09/2026 14:59
 af30443a-e4e3-4028-9606-b88564f4491b,aquaphobia.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,19/09/2026 22:59
 835b487d-a119-4c08-82dc-3d8a6d1c71ff,stagy.plumbing,available,76.98,89.98,medium,low,5,namecheap,,,10/09/2026 18:04
@@ -45,17 +45,17 @@ f86f6aaf-f1c4-4240-9c39-da9aecb3f2a8,drums.plumbing,available,72.99,72.99,medium
 94ff496c-3223-4e89-8e07-b222a7567894,newell.plumbing,available,56.2,56.2,high,low,6,cloudflare,,,27/09/2026 18:17
 abce4b47-031a-443a-a32d-2d1f6af3afeb,ratty.plumbing,available,14.99,94.99,medium,low,5,name.com,,,25/08/2026 06:53
 91789f19-aa58-43a3-b95b-c87ec9678eed,broiled.plumbing,available,14.99,94.99,medium,low,7,name.com,,,11/08/2026 05:19
-3bc4193f-d30a-4a02-b099-4d9f5f0f9689,costumed.plumbing,available,14.99,94.99,medium,low,8,name.com,,,13/08/2026 03:18
-765d2177-255f-4de3-ad15-745e9e5aa869,binghamton.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,23/09/2026 17:34
+3bc4193f-d30a-4a02-b099-4d9f5f0f9689,costumed.plumbing,available,14.99,94.99,high,low,8,name.com,,,13/08/2026 03:18
+765d2177-255f-4de3-ad15-745e9e5aa869,binghamton.plumbing,available,76.98,89.98,high,low,10,namecheap,,,23/09/2026 17:34
 1d678774-6f47-40c6-9e43-5f6a366992b8,redmond.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,28/09/2026 11:41
-f7506faf-f589-4251-883a-606adb89591f,bending.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,23/09/2026 07:44
+f7506faf-f589-4251-883a-606adb89591f,bending.plumbing,available,72.99,72.99,high,low,7,namesilo,,,23/09/2026 07:44
 aa87e4c6-4c3c-48f2-82ed-0b2de8cd4d57,viciously.plumbing,available,14.99,94.99,medium,low,9,name.com,,,14/09/2026 01:35
 87e52075-fc1c-430f-8e9a-4fc63744c5c6,barbary.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,22/09/2026 04:32
 0bb72c09-cdba-4a54-bd40-67f24b136a0a,andersen.plumbing,available,72.99,72.99,high,low,8,namesilo,,,19/09/2026 04:01
 c284e97b-887a-4401-9044-5d6f3f10b6f2,pintail.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,19/09/2026 02:52
 eaac68dc-92a6-44f2-8c92-3233df01f0bc,diocesan.plumbing,available,14.99,94.99,medium,low,8,name.com,,,14/08/2026 08:18
 1352e840-ee4a-4ab9-b40a-3e3fae17a5fb,ignited.plumbing,available,14.99,94.99,high,low,7,name.com,,,17/08/2026 09:20
-406d3cb9-7fc4-4ded-a98e-20f6dc4372e1,channels.plumbing,available,14.99,,high,low,8,name.com,,,
+406d3cb9-7fc4-4ded-a98e-20f6dc4372e1,channels.plumbing,available,8.24,60.14,high,low,8,dynadot,,,29/09/2026 08:04
 b0530805-5796-4d0c-8a8e-4399095c0fa9,roland.plumbing,available,56.2,56.2,high,low,6,cloudflare,,,28/09/2026 07:46
 59c93bf0-f085-4484-95b2-63d70914a747,sushi.plumbing,available,14.99,,high,low,5,name.com,,,
 2c6e0bba-0616-4336-9ab0-820c5d6c93ac,gilded.plumbing,available,14.99,94.99,high,low,6,name.com,,,14/08/2026 00:55
@@ -64,16 +64,19 @@ b0530805-5796-4d0c-8a8e-4399095c0fa9,roland.plumbing,available,56.2,56.2,high,lo
 6a054eee-8a31-4b29-9f50-90a744c8845f,weeks.plumbing,available,14.99,,medium,low,5,name.com,,,
 8e081542-426b-4a44-b96b-549231815b49,selflessly.plumbing,available,76.98,89.98,high,low,10,namecheap,,,13/09/2026 19:23
 1e254104-4d31-4144-8ee9-5935f43485d6,prototypic.plumbing,available,14.99,94.99,medium,low,10,name.com,,,06/08/2026 15:42
+5553dc6d-4c30-4220-8936-5112b5923311,rhineland.plumbing,available,58.16,58.16,medium,low,9,spaceship,,,29/09/2026 13:52
 106309fe-e25f-4bdc-8f02-3359aab2be4a,nookie.plumbing,available,14.99,94.99,medium,low,6,name.com,,,18/08/2026 17:31
 24a3c9b9-132d-41f4-9691-6f7c69300767,bachelor.plumbing,available,76.98,89.98,high,low,8,namecheap,,,29/09/2026 00:12
 bc24d5a7-9618-49f4-8034-14a5b50b7261,inexpensive.plumbing,available,14.99,,high,low,11,name.com,,,
 e45f05d6-5b42-48eb-95d2-f5117c032c45,pawn.plumbing,available,8.24,60.14,high,low,4,dynadot,,,28/09/2026 18:36
-700f763a-d5f0-49fa-8204-f511b6cd0df6,vex.plumbing,available,72.99,72.99,medium,low,3,namesilo,,,21/09/2026 17:27
+700f763a-d5f0-49fa-8204-f511b6cd0df6,vex.plumbing,available,72.99,72.99,high,low,3,namesilo,,,21/09/2026 17:27
 b90fa6e5-2b60-484a-9f89-b9061b661bb9,nuclei.plumbing,available,14.99,94.99,medium,low,6,name.com,,,
 7e2d3739-56d0-4625-88da-829230423a7c,unsettled.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,12/09/2026 19:22
 68382147-bbfe-4af1-ab4d-4bf993b17704,chuck.plumbing,available,72.99,72.99,high,low,5,namesilo,,,08/09/2026 10:16
-9b4c7196-97d3-4549-8a11-2b22e70fb342,speedily.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,13/09/2026 20:19
-663a3066-0e31-4272-bddf-62bbd514d9a4,beckley.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,22/09/2026 22:43
+9b4c7196-97d3-4549-8a11-2b22e70fb342,speedily.plumbing,available,76.98,89.98,high,low,8,namecheap,,,13/09/2026 20:19
+663a3066-0e31-4272-bddf-62bbd514d9a4,beckley.plumbing,available,76.98,89.98,high,low,7,namecheap,,,22/09/2026 22:43
+1058fe3d-f31c-45be-8f3f-17848d7fa164,guru.plumbing,available,58.16,58.16,high,low,4,spaceship,,,29/09/2026 13:00
+2582be53-d1d8-4639-8547-2c88a354b724,luisa.plumbing,available,56.2,56.2,medium,low,5,cloudflare,,,29/09/2026 05:31
 e20cb018-843e-44a1-b3da-1b58096a21a3,consecrate.plumbing,available,14.99,94.99,high,low,10,name.com,,,12/08/2026 22:25
 c1a9977e-592c-478e-9366-9f84ded6d1ba,unstaged.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,12/09/2026 20:29
 c0dc1a12-0b2d-4956-8669-fe364ef40061,atresia.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,21/09/2026 00:42
@@ -98,16 +101,22 @@ f974d1d0-5609-48c7-9ebb-e8970913e55f,mohammedan.plumbing,available,14.99,94.99,m
 37c2e02d-772e-498a-975f-018e95e51bfe,tokugawa.plumbing,available,72.99,72.99,low,low,8,namesilo,,,28/09/2026 09:08
 4a0bcd91-c124-4bc7-97dd-883363abafcb,healed.plumbing,available,14.99,94.99,high,low,6,name.com,,,13/08/2026 11:04
 4847984c-d2bb-459d-9d73-2a9e785d6774,paranoiac.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,08/09/2026 01:08
+fce5ee35-eec1-44e5-b182-0a136aa28fa8,umar.plumbing,available,58.16,58.16,high,low,4,spaceship,,,29/09/2026 11:35
+963388ee-37ff-4fe5-9c4e-94997b380c74,bastards.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,29/09/2026 11:17
+6d32698a-1fe0-47e9-9019-e05cdba94ae6,establishing.plumbing,available,58.16,58.16,high,low,12,spaceship,,,29/09/2026 21:01
 1bd4fd05-557b-4538-9da2-d9530353d183,powell.plumbing,available,76.98,89.98,high,low,6,namecheap,,,25/09/2026 04:09
+39f01638-8d39-4a4f-8cd9-d1ab431afa00,motown.plumbing,available,72.99,72.99,high,low,6,namesilo,,,29/09/2026 06:38
 f2c44aac-7559-44b6-8733-7e8c3cc62eb3,bawd.plumbing,available,14.99,94.99,medium,low,4,name.com,,,13/08/2026 14:22
 457c5b92-7e03-400d-9120-a54445efac18,wheel.plumbing,available,76.98,89.98,high,low,5,namecheap,,,27/09/2026 03:13
 67723060-280f-45c3-ac13-43b57387a54f,oven.plumbing,available,58.16,58.16,high,low,4,spaceship,,,28/09/2026 06:32
+26b97209-57fd-4525-afcf-78285370541e,redeem.plumbing,available,72.99,72.99,high,low,6,namesilo,,,30/09/2026 02:39
 7eedf53d-847c-4397-b327-ea2b7017e0ab,bernstein.plumbing,available,76.98,89.98,high,low,9,namecheap,,,23/09/2026 10:01
 5bc09e6f-0852-4774-a3a6-3cc5052726f4,velar.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,13/09/2026 01:59
 206f2eab-daed-42ff-90eb-41d5dde6abc2,roaring.plumbing,available,14.99,94.99,high,low,7,name.com,,,10/08/2026 19:21
 003751ea-990b-4fef-a84a-6577ba801877,gelatinous.plumbing,available,14.99,94.99,medium,low,10,name.com,,,18/08/2026 21:01
 7fc94f6f-c43d-451c-aba5-88515d8c9280,suits.plumbing,available,72.99,72.99,high,low,5,namesilo,,,18/09/2026 12:41
 0087ec60-9a8a-4aef-a41b-47c8b7fc990f,airmailer.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,17/09/2026 23:15
+5912186e-58b6-46e6-bee6-645059b655bd,wessex.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,29/09/2026 08:19
 7289bbb0-da4f-48cd-8815-522c1fd1f4ff,lublin.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,28/09/2026 19:44
 34291e83-4457-4f40-951f-f6f6236b9035,resister.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,17/09/2026 10:48
 49f6a308-7f3a-4077-958e-1f176a4fcd7a,thirteen.plumbing,available,72.99,72.99,high,low,8,namesilo,,,21/09/2026 11:32
@@ -118,6 +127,7 @@ deb690fe-465e-4221-ba8a-8a324bdc5f02,unproven.plumbing,available,72.99,72.99,med
 2ad2a073-9f0d-465f-a521-026a1cd58f7d,wakening.plumbing,available,58.16,58.16,high,low,8,spaceship,,,28/09/2026 23:37
 938bbea5-67d1-4513-8e58-50fc2d648206,families.plumbing,available,14.99,,high,low,8,name.com,,,
 acddf7be-643a-4167-80a8-157cf812c34a,ersatz.plumbing,available,14.99,94.99,medium,low,6,name.com,,,17/08/2026 13:03
+29abea80-0a7f-476c-bf71-cafcf73e0276,mak.plumbing,available,8.24,58.19,high,low,3,porkbun,,,29/09/2026 13:22
 c11b56b9-8dfa-47c2-ae00-59ad86276afc,lukewarm.plumbing,available,14.99,94.99,medium,low,8,name.com,,,20/08/2026 22:43
 bde9c57d-64bd-4398-8bd5-47fc58f44375,birthday.plumbing,available,56.2,56.2,high,low,8,cloudflare,,,29/09/2026 02:53
 e3497526-d439-4487-a122-4124c12c4a66,alternative.plumbing,available,72.99,72.99,high,low,11,namesilo,,,26/09/2026 00:42
@@ -126,17 +136,19 @@ e3497526-d439-4487-a122-4124c12c4a66,alternative.plumbing,available,72.99,72.99,
 97328f4c-02e8-46d5-9249-544a7be4e002,parent.plumbing,available,14.99,,high,low,6,name.com,,,
 73a94705-9839-492a-9934-4577fc6bdc4e,guerra.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,28/09/2026 12:18
 9cdc66ce-9713-475f-872b-d68cee85677e,camomile.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,19/09/2026 13:02
-771edd28-7477-4dc6-8921-d733628a0257,vows.plumbing,available,72.99,72.99,medium,low,4,namesilo,,,28/09/2026 04:45
+771edd28-7477-4dc6-8921-d733628a0257,vows.plumbing,available,72.99,72.99,high,low,4,namesilo,,,28/09/2026 04:45
 af6939a6-a83e-4f9b-80eb-29fdb4ec0efe,gaffer.plumbing,available,14.99,94.99,medium,low,6,name.com,,,
 261e279b-68c9-461b-9bba-44d148dd8320,duel.plumbing,available,76.98,89.98,high,low,4,namecheap,,,17/09/2026 14:06
 377ace52-f4e5-49c0-b6f3-343e1492c1cc,taal.plumbing,available,14.99,94.99,medium,low,4,name.com,,,
 18be9159-7379-45ae-a153-19bbd06777b3,archive.plumbing,available,14.99,94.99,high,medium,7,name.com,,,20/09/2026 02:19
 9c735a18-cecf-4f6d-b28e-7b159e300c1d,misunderstood.plumbing,available,72.99,72.99,medium,low,13,namesilo,,,29/09/2026 02:48
 857090f6-084f-48bc-a00b-368d18aabbec,firebird.plumbing,available,72.99,72.99,high,low,8,namesilo,,,22/09/2026 00:21
-52db2353-97f1-421e-b88d-4bbf683b52b6,unwashed.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,08/09/2026 21:02
+52db2353-97f1-421e-b88d-4bbf683b52b6,unwashed.plumbing,available,76.98,89.98,high,low,8,namecheap,,,08/09/2026 21:02
+a337d2bc-a2a7-4dc5-b203-93b3dd923e3f,dayton.plumbing,available,8.24,60.14,high,low,6,dynadot,,,30/09/2026 01:15
 895d63b2-7e2c-427a-856b-772de51d34d2,conducive.plumbing,available,14.99,94.99,high,low,9,name.com,,,12/08/2026 20:30
 d66e112e-f445-4f7b-8699-d23b4f8f4747,differently.plumbing,available,72.99,72.99,medium,low,11,namesilo,,,26/09/2026 03:11
 c3871296-ad6d-4679-b86f-dd94c5c88951,hockey.plumbing,available,72.99,72.99,high,low,6,namesilo,,,25/09/2026 22:46
+ad17c233-7b93-4f69-b8e0-c7712050f8f1,combining.plumbing,available,56.2,56.2,high,low,9,cloudflare,,,29/09/2026 18:23
 c613725a-f6c2-4a1e-aac0-92d8f426dfc2,antido.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,19/09/2026 14:17
 9707a927-e202-4b07-969e-0b30e442c68e,glad.plumbing,available,76.98,89.98,high,low,4,namecheap,,,22/09/2026 18:28
 4439b901-45f2-49b0-bcdf-65583128a068,bister.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,23/09/2026 22:08
@@ -145,14 +157,14 @@ c613725a-f6c2-4a1e-aac0-92d8f426dfc2,antido.plumbing,available,72.99,72.99,mediu
 60aa82fb-c910-4256-9714-97dc7753233d,lackluster.plumbing,available,14.99,94.99,medium,low,10,name.com,,,22/08/2026 18:07
 033a00b8-e92a-406e-8096-8e39d91f5e7a,bismuth.plumbing,available,72.99,72.99,high,low,7,namesilo,,,20/09/2026 23:53
 8cc48559-1213-4df3-879a-471c2efbcd93,aorist.plumbing,available,76.98,89.98,medium,low,6,namecheap,,,19/09/2026 16:03
-680a38a5-d76b-4172-8dd8-0eb3496c50aa,grape.plumbing,available,72.99,72.99,high,low,5,namesilo,,,25/09/2026 05:32
+680a38a5-d76b-4172-8dd8-0eb3496c50aa,grape.plumbing,available,56.2,56.2,high,low,5,cloudflare,,,29/09/2026 08:23
 f1f0d443-c01b-4118-9f29-5925618f7e87,feminine.plumbing,available,72.99,72.99,high,low,8,namesilo,,,24/09/2026 17:35
 dcfaeb1c-a0e4-4b69-8513-0e63e5d7d5e6,apostate.plumbing,available,14.99,94.99,medium,low,8,name.com,,,06/08/2026 03:35
 17830db2-c384-4e5d-83b0-2ca380b07ced,worthy.plumbing,available,58.16,58.16,high,low,6,spaceship,,,28/09/2026 11:05
 9432e273-7d14-4e2d-a549-f3f35816e5fc,toon.plumbing,available,72.99,72.99,high,low,4,namesilo,,,19/09/2026 09:01
 fde1e45c-208d-484d-ba4c-7c1d2548df96,inherent.plumbing,available,72.99,72.99,high,low,8,namesilo,,,23/09/2026 10:30
 fe0a7600-a9c0-4b87-b899-5e63bac69293,esthete.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,17/09/2026 13:35
-0b7060d7-3401-4588-9494-5b11a00cb305,sleeved.plumbing,available,14.99,94.99,medium,low,7,name.com,,,10/09/2026 10:43
+0b7060d7-3401-4588-9494-5b11a00cb305,sleeved.plumbing,available,14.99,94.99,high,low,7,name.com,,,10/09/2026 10:43
 823edcc2-0aec-4e8f-a631-292ceeb74065,pulverized.plumbing,available,14.99,94.99,medium,low,10,name.com,,,18/08/2026 04:41
 9aa08639-c65f-4c9c-af65-33d7815e0cca,improve.plumbing,available,14.99,,high,low,7,name.com,,,
 4b9d3945-6bcc-4aa8-8c0a-1d769bf5284c,newcomer.plumbing,available,14.99,94.99,high,low,8,name.com,,,18/08/2026 07:31
@@ -160,17 +172,19 @@ fe0a7600-a9c0-4b87-b899-5e63bac69293,esthete.plumbing,available,72.99,72.99,medi
 72b3eb61-1f36-46fd-9d1c-d0352e024b9e,rumination.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,03/09/2026 11:31
 c3ba2768-4852-4894-ac5a-f1589398f1d4,irvin.plumbing,available,58.16,58.16,medium,low,5,spaceship,,,28/09/2026 16:39
 3fdaf5b2-4ed9-447d-8f66-aca75a95d79f,ripple.plumbing,available,72.99,72.99,high,low,6,namesilo,,,12/09/2026 08:34
+0e5c492a-0206-4615-a8ec-be87f29de31b,mirage.plumbing,available,72.99,72.99,high,low,6,namesilo,,,29/09/2026 13:27
 38dbd004-c563-4af9-8fb0-3f8f39e41898,hassium.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,20/09/2026 22:10
 da5ee1d3-51e4-41ca-a101-235f69c82f4b,choirs.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,17/09/2026 06:51
 674313b9-aefd-47ed-8673-f6a7df12356e,membership.plumbing,available,8.24,60.14,high,low,10,dynadot,,,28/09/2026 06:23
 f3b5fc02-ecd9-4138-87d5-7c8a9d074677,taxable.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,03/09/2026 19:07
 7185ede8-e0b8-41c3-b813-a5fe75ff6dc2,port.plumbing,available,72.99,72.99,high,low,4,namesilo,,,25/09/2026 13:07
 698c93a1-52be-4651-9de1-44bf2ef78b49,beanstalk.plumbing,available,72.99,72.99,high,low,9,namesilo,,,22/09/2026 20:43
-eea69497-7db7-4666-b166-09a4fc5fdb04,exception.plumbing,available,14.99,,high,low,9,name.com,,,
+ccacfd47-00eb-4d82-81a7-074dd31efcc7,operationally.plumbing,available,56.2,56.2,medium,low,13,cloudflare,,,29/09/2026 17:55
+eea69497-7db7-4666-b166-09a4fc5fdb04,exception.plumbing,available,56.2,56.2,high,low,9,cloudflare,,,29/09/2026 18:20
 73af2013-3e25-40eb-9dba-8c99a135d7e4,gilding.plumbing,available,14.99,94.99,high,low,7,name.com,,,18/08/2026 23:37
 fce637df-2d2b-4c38-9fe4-1c8d66d1f2d0,yersin.plumbing,available,76.98,89.98,medium,low,6,namecheap,,,18/09/2026 05:59
 36514dda-eec1-44bf-ae8d-b46e40299eb5,assigning.plumbing,available,14.99,94.99,high,low,9,name.com,,,20/09/2026 16:26
-308ce602-265a-4e89-866e-141868453200,choir.plumbing,available,14.99,,high,low,5,name.com,,,
+308ce602-265a-4e89-866e-141868453200,choir.plumbing,available,58.16,58.16,high,low,5,spaceship,,,29/09/2026 08:52
 5f94dc5c-91a4-412d-bbd8-a5a1c6cdf167,horny.plumbing,available,14.99,94.99,high,low,5,name.com,,,13/08/2026 01:41
 c14c6295-8081-43f1-a15b-4de022454df5,extremist.plumbing,available,14.99,94.99,medium,low,9,name.com,,,17/08/2026 19:32
 76fa61b9-69ec-4adb-9d04-5378ad1b5431,courier.plumbing,available,76.98,89.98,high,low,7,namecheap,,,28/09/2026 18:49
@@ -179,25 +193,29 @@ c14c6295-8081-43f1-a15b-4de022454df5,extremist.plumbing,available,14.99,94.99,me
 324d634d-ca26-4073-b81f-cced44fee9c2,shortness.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,16/09/2026 17:27
 10b3e48e-c2bc-4705-b86a-271ff63f5f9f,profitless.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,09/09/2026 02:50
 5088d87e-1775-4974-bb3a-c425531866c8,milliliter.plumbing,available,14.99,94.99,medium,low,10,name.com,,,11/08/2026 22:53
+95898379-7e47-4ef0-a0c6-e60d4d16f70e,rooftop.plumbing,available,56.2,56.2,high,low,7,cloudflare,,,29/09/2026 20:13
 f8d6c7ec-0319-42c1-90aa-af310fd5b35c,cherished.plumbing,available,14.99,94.99,high,low,9,name.com,,,12/08/2026 04:13
 26dc4c8f-4d25-4928-b87b-8b5c05a96ed3,flexuous.plumbing,available,14.99,94.99,medium,low,8,name.com,,,18/08/2026 08:08
 92bb2cac-f1d2-4b33-b07a-796114844647,deserving.plumbing,available,14.99,94.99,high,low,9,name.com,,,14/08/2026 03:29
 c0f50d2f-521b-49c2-84a5-532f16d69b41,toiling.plumbing,available,14.99,94.99,medium,low,7,name.com,,,14/08/2026 20:00
 3a8cd36d-8680-4429-9d1e-03810e95a3c4,poetical.plumbing,available,72.99,72.99,high,low,8,namesilo,,,08/09/2026 22:34
+8e618bd8-472d-469f-90e9-0eb5034d51ce,spitting.plumbing,available,8.24,58.19,medium,low,8,porkbun,,,29/09/2026 08:06
 8f171370-2e5f-4094-a2f3-70fdd103d690,opined.plumbing,available,72.99,72.99,low,low,6,namesilo,,,28/09/2026 09:10
 336ca7a7-9d38-4dc3-be8e-629197e9b68d,focus.plumbing,available,72.99,72.99,high,medium,5,namesilo,,,19/09/2026 06:53
 de8e8d5a-abba-453e-ac79-34fa20fe4256,viable.plumbing,available,14.99,94.99,high,low,6,name.com,,,17/08/2026 16:52
 e3291fc1-23b1-4727-b585-03dc9192a038,emmett.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,28/09/2026 08:01
 14452b02-a823-45ac-8cdb-88afa69a2afc,sky.plumbing,available,14.99,,high,medium,3,name.com,,,
 6066920b-c676-460a-ac69-e9141f0eab78,jackfruit.plumbing,available,72.99,72.99,high,low,9,namesilo,,,20/09/2026 11:58
-f7fcec64-817f-4f7f-9f88-bfbad78f49ec,damascus.plumbing,available,14.99,,high,low,8,name.com,,,
-934de791-3f6a-464a-a4b0-2dd60807d1be,earn.plumbing,available,14.99,,high,low,4,name.com,,,
+f7fcec64-817f-4f7f-9f88-bfbad78f49ec,damascus.plumbing,available,56.2,56.2,high,low,8,cloudflare,,,29/09/2026 07:02
+934de791-3f6a-464a-a4b0-2dd60807d1be,earn.plumbing,available,58.16,58.16,high,low,4,spaceship,,,29/09/2026 20:44
 d4ab654e-6120-4f2d-9371-8619deacc22a,demurely.plumbing,available,14.99,94.99,medium,low,8,name.com,,,14/09/2026 11:31
 67422eec-3db6-48b5-9931-c37eff9775f0,rollover.plumbing,available,72.99,72.99,high,low,9,namesilo,,,16/09/2026 17:22
+43b88e32-f4c7-4121-a7ff-63539e78d8da,vines.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,29/09/2026 23:04
 510b0e08-0ac5-4d1c-80df-4f74f3d62630,afl.plumbing,available,76.98,89.98,high,low,3,namecheap,,,17/09/2026 15:04
 1f14791e-7b49-4bc5-ae8d-7969b2236809,lopsided.plumbing,available,14.99,94.99,medium,low,8,name.com,,,07/08/2026 03:41
 f98115b4-575e-436c-bb1c-3c3c3f5d116c,patter.plumbing,available,76.98,89.98,high,low,6,namecheap,,,15/09/2026 20:21
-cb703f88-0a62-473a-b01f-d46668fe53da,jerusalem.plumbing,available,58.16,58.16,medium,low,9,spaceship,,,28/09/2026 09:14
+cb703f88-0a62-473a-b01f-d46668fe53da,jerusalem.plumbing,available,58.16,58.16,high,low,9,spaceship,,,28/09/2026 09:14
+585ff319-ab24-4e5d-848a-008509057172,sections.plumbing,available,8.24,58.19,medium,low,8,porkbun,,,29/09/2026 05:14
 7ab0ec3d-0edb-44e0-8299-a4ceccd576cd,otoscope.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,21/09/2026 04:28
 0c16db89-2681-4a5b-8025-915184937b49,frederick.plumbing,available,58.16,58.16,high,low,9,spaceship,,,28/09/2026 01:56
 548b3837-7e3f-45c7-b567-fbac8fcc6903,sal.plumbing,available,58.16,58.16,high,low,3,spaceship,,,28/09/2026 03:21
@@ -209,15 +227,17 @@ f984d33c-81aa-41c7-b2fe-def05cb7e986,hoyt.plumbing,available,72.99,72.99,medium,
 15219c04-6c4a-4ccb-8422-c8ba7881f2d1,tenured.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,11/09/2026 11:43
 d6869cba-39f7-4775-a149-848090b94e0d,hick.plumbing,available,14.99,94.99,medium,low,4,name.com,,,11/08/2026 09:44
 d53b70fb-0200-4578-95de-813e2f7a81d8,riled.plumbing,available,14.99,94.99,medium,low,5,name.com,,,
+ae66d16f-f5b2-49bf-96d6-3b9aa241bca1,constitutes.plumbing,available,58.16,58.16,low,low,11,spaceship,,,30/09/2026 00:12
 8e9e5b3e-9a92-45ac-aac8-d1f7a89d71e3,summarizing.plumbing,available,72.99,72.99,medium,low,11,namesilo,,,17/09/2026 10:36
 fbe0c231-3ccb-4cf5-9cc4-b5699143e8d7,rebuild.plumbing,available,8.24,60.14,high,low,7,dynadot,,,28/09/2026 06:58
 7af5eddd-3448-45ce-bb3e-00614c5c808a,discus.plumbing,available,72.99,72.99,high,low,6,namesilo,,,24/09/2026 22:35
 81cd71d4-21aa-424c-821d-8aee552a618d,sin.plumbing,available,72.99,72.99,high,medium,3,namesilo,,,10/09/2026 08:32
 cc0d244e-8211-4bbe-bff2-9469c42c5be6,fearless.plumbing,available,72.99,72.99,high,low,8,namesilo,,,22/09/2026 12:19
-70da871e-84ed-493b-b574-32444cbbdddc,nicene.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,03/09/2026 17:01
-5150e5c4-b00d-4c68-aca7-baf38fcca0c2,speculation.plumbing,available,14.99,,medium,low,11,name.com,,,
+70da871e-84ed-493b-b574-32444cbbdddc,nicene.plumbing,available,72.99,72.99,high,low,6,namesilo,,,03/09/2026 17:01
+5150e5c4-b00d-4c68-aca7-baf38fcca0c2,speculation.plumbing,available,14.99,,high,low,11,name.com,,,
 0b266d75-dec2-4ca4-a59c-b7b6fd00048c,persuade.plumbing,available,72.99,72.99,high,low,8,namesilo,,,27/09/2026 16:35
-4b157695-731c-4c42-b829-435916d8e881,contracts.plumbing,available,56.2,56.2,medium,low,9,cloudflare,,,28/09/2026 08:33
+78541255-a413-414d-9e5e-b2dcd3c56c6b,tecumseh.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,29/09/2026 08:12
+4b157695-731c-4c42-b829-435916d8e881,contracts.plumbing,available,56.2,56.2,high,low,9,cloudflare,,,28/09/2026 08:33
 991690f3-2107-4ec6-9ebf-32d0124f8fd3,insecure.plumbing,available,14.99,94.99,high,low,8,name.com,,,22/08/2026 06:42
 9f4ce53e-07a3-49b5-bb56-7e6de2759cb9,perchance.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,14/09/2026 02:12
 64abb21c-1576-4d0a-9afe-2ded89718639,balaclava.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,21/09/2026 20:27
@@ -227,10 +247,10 @@ a3f481ba-594f-45f1-9262-7481e2b877a6,plasma.plumbing,available,72.99,72.99,high,
 f1952071-0174-4fa0-9ced-d496fdd9333a,conquering.plumbing,available,72.99,72.99,high,low,10,namesilo,,,24/09/2026 17:24
 e76e8d42-fe4a-488b-9fc7-b7fe81d1d266,moldovan.plumbing,available,14.99,94.99,high,low,8,name.com,,,25/08/2026 03:50
 f1ba87e1-70de-440f-9a64-cc261baf2897,bended.plumbing,available,14.99,94.99,low,low,6,name.com,,,09/08/2026 14:15
-f4afd90c-6f5e-4b68-b001-8dedb560d4f9,consolation.plumbing,available,56.2,56.2,medium,low,11,cloudflare,,,28/09/2026 22:58
+f4afd90c-6f5e-4b68-b001-8dedb560d4f9,consolation.plumbing,available,56.2,56.2,high,low,11,cloudflare,,,28/09/2026 22:58
 91a6fdfd-6cfa-44f7-bbc5-4711f7085232,capricious.plumbing,available,14.99,94.99,medium,low,10,name.com,,,11/08/2026 18:04
 bd4f1981-f779-4d43-bdac-4985c0c5d0ac,blackpoll.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,24/09/2026 02:54
-32527e8e-0663-4853-8ee8-cabf90b893a7,candle.plumbing,available,14.99,,high,low,6,name.com,,,
+32527e8e-0663-4853-8ee8-cabf90b893a7,candle.plumbing,available,56.2,56.2,high,low,6,cloudflare,,,29/09/2026 06:35
 f4138561-7f9c-4cf7-94b9-793c0a8565e9,alienor.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,18/09/2026 07:41
 11b9baec-43e7-4960-97ca-29943fe93513,albee.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,18/09/2026 02:31
 a3e2fc89-4f16-4a7a-8be8-2ffd480386e4,loads.plumbing,available,72.99,72.99,high,low,5,namesilo,,,28/09/2026 15:05
@@ -238,12 +258,14 @@ a3e2fc89-4f16-4a7a-8be8-2ffd480386e4,loads.plumbing,available,72.99,72.99,high,l
 2ac69814-a58d-404d-bac7-d96d22c63fb7,ironical.plumbing,available,14.99,94.99,medium,low,8,name.com,,,22/08/2026 10:06
 4724ba2a-d5ab-4e6a-aef3-3d0e18e91869,peterson.plumbing,available,72.99,72.99,high,low,8,namesilo,,,25/09/2026 17:40
 159258a5-cb80-49d4-a226-f7fb583b17d4,barky.plumbing,available,14.99,94.99,medium,low,5,name.com,,,08/08/2026 19:46
+498ebeb8-3ae5-4c82-9cde-dbbd8672ba68,partitioning.plumbing,available,56.2,56.2,high,low,12,cloudflare,,,29/09/2026 09:00
 bdf72719-26d6-4fbf-9cbb-627ab0c495cf,apoapsis.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,19/09/2026 18:07
 6864397c-6add-4f24-95ad-a43255ae8e68,rubber.plumbing,available,72.99,72.99,high,low,6,namesilo,,,27/09/2026 16:38
 8e8bfdf2-bacb-4e80-937b-7f8e243b03c9,crowns.plumbing,available,76.98,89.98,medium,low,6,namecheap,,,18/09/2026 06:26
 a660fce4-4fe6-4de4-b433-eda245f22405,uttered.plumbing,available,14.99,94.99,medium,low,7,name.com,,,17/08/2026 18:44
-95575dc5-7211-4e42-b3d4-2eb5ce72438a,goof.plumbing,available,72.99,72.99,medium,low,4,namesilo,,,24/09/2026 06:18
+95575dc5-7211-4e42-b3d4-2eb5ce72438a,goof.plumbing,available,72.99,72.99,high,low,4,namesilo,,,24/09/2026 06:18
 995d59dd-1cb4-46f1-813b-3e1a7196d960,paced.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,18/09/2026 10:44
+ead3665a-29e3-4ac8-9f61-e371d4aba1d6,developments.plumbing,available,58.16,58.16,high,low,12,spaceship,,,29/09/2026 16:40
 d67782df-98e9-4f17-a630-303885bbce94,comments.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,17/09/2026 01:39
 5b73ce1c-dcd4-4569-9275-0c1c7c9e724a,usc.plumbing,available,72.99,72.99,high,low,3,namesilo,,,25/09/2026 14:13
 aaa67427-558a-4d1c-922a-a9c7457da34d,extremely.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,27/09/2026 02:51
@@ -257,6 +279,7 @@ a39e779d-7892-4904-a593-2a2bd858cee3,budgets.plumbing,available,8.24,58.19,mediu
 e36f1aab-ccaa-4c49-8b94-21b0f056c5a5,albuca.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,18/09/2026 03:19
 2848257a-07b6-469b-bb7f-e6588d5c78d7,cheltenham.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,28/09/2026 12:18
 1c8589da-624a-40d9-8c81-d673f49a05b3,dyslexic.plumbing,available,14.99,94.99,medium,low,8,name.com,,,14/08/2026 22:03
+6d59d036-1a69-4d45-9e3b-5d6370f67790,eic.plumbing,available,8.24,60.14,high,low,3,dynadot,,,29/09/2026 21:33
 d64c846f-775c-4380-871e-98bdeecfe9a4,license.plumbing,available,72.99,72.99,high,low,7,namesilo,,,25/09/2026 08:58
 02fcaa20-cb21-430d-ba03-4088c6db149e,yong.plumbing,available,72.99,72.99,medium,low,4,namesilo,,,28/09/2026 16:51
 56f254db-9630-43e7-8fbb-b9333d00acd6,ripe.plumbing,available,72.99,72.99,high,low,4,namesilo,,,27/09/2026 15:25
@@ -269,7 +292,11 @@ f98a716f-7284-4f3a-b016-38f17e8c7ba2,truncheon.plumbing,available,72.99,72.99,me
 c2aab74e-f48b-4627-ad94-38353b86e488,wastebasket.plumbing,available,14.99,,high,low,11,name.com,,,
 7fcd014e-b0c9-4230-989e-05170654885a,epical.plumbing,available,14.99,94.99,medium,low,6,name.com,,,17/08/2026 10:29
 f95b5884-d1a1-4e81-addd-09969c7610b6,guatemalan.plumbing,available,14.99,94.99,high,low,10,name.com,,,20/08/2026 20:45
-ddc044f2-c252-4a6c-9d98-6722fe11c8e0,stael.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,22/09/2026 07:38
+c9c74eb1-91c3-48be-97da-f8061bd457a3,tissues.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,29/09/2026 10:39
+4c3afe98-1294-4a44-9957-92abdd6496aa,haarlem.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,29/09/2026 22:19
+203e9189-43b9-44cc-8a36-7982e7d82398,itch.plumbing,available,58.16,58.16,high,low,4,spaceship,,,29/09/2026 19:24
+ddc044f2-c252-4a6c-9d98-6722fe11c8e0,stael.plumbing,available,72.99,72.99,high,low,5,namesilo,,,22/09/2026 07:38
+f16beadd-2ff8-488b-8747-469c800b5996,pilgrimage.plumbing,available,56.2,56.2,high,low,10,cloudflare,,,29/09/2026 20:00
 d872439b-0490-4b36-ad86-b447fcc4abd9,destruction.plumbing,available,72.99,72.99,medium,low,11,namesilo,,,27/09/2026 02:03
 7a773968-fe1b-4c39-a33a-2b1c0c4e82c3,squealer.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,23/09/2026 11:32
 4de20e72-66c0-449d-9512-789ee68d804e,evening.plumbing,available,72.99,72.99,high,low,7,namesilo,,,24/09/2026 15:27
@@ -286,21 +313,24 @@ b1a36b8d-1e15-4caf-9b41-06ec0886edf4,moire.plumbing,available,14.99,94.99,medium
 4bd771ee-3843-47f1-ac7b-fdcc646a8fd0,tubular.plumbing,available,14.99,94.99,high,low,7,name.com,,,11/08/2026 17:14
 51bb5112-e24b-4cd4-ad93-91963cd5f8e6,protestant.plumbing,available,72.99,72.99,high,low,10,namesilo,,,09/09/2026 04:08
 f14c49c7-b4bc-459e-9a05-84a1a9458d27,beverly.plumbing,available,76.98,89.98,high,low,7,namecheap,,,25/09/2026 21:21
+5c16dfe6-bc4b-4bd9-b7d3-4ec267f149ec,famine.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,29/09/2026 12:01
 a68a2e92-e849-4ca0-8118-16ed7e771513,obligation.plumbing,available,72.99,72.99,high,low,10,namesilo,,,24/09/2026 13:40
 602632b4-9c34-4ced-842c-5b784111f065,barrio.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,22/09/2026 08:38
 a7b1ea20-49d0-4425-a42b-c6732a422fbc,sissy.plumbing,available,14.99,94.99,medium,low,5,name.com,,,12/08/2026 08:45
 b65d9d72-5a19-453d-aefa-8ad331010b15,bazooka.plumbing,available,76.98,89.98,high,low,7,namecheap,,,22/09/2026 18:25
 ebe233f2-9e6f-4451-b17f-5cbaa7a019d2,babe.plumbing,available,58.16,58.16,high,low,4,spaceship,,,29/09/2026 00:05
 337c6c58-ea62-40c7-b882-b626eea1195b,rabbit.plumbing,available,72.99,72.99,high,low,6,namesilo,,,25/09/2026 08:52
+a8b42c7e-f798-4027-9a63-68f55db69031,mustache.plumbing,available,72.99,72.99,high,low,8,namesilo,,,29/09/2026 19:43
 8327efef-d5a4-4a86-9d4f-b1af660e7987,oar.plumbing,available,14.99,,high,low,3,name.com,,,
 36298806-e0b6-47fb-aba4-714912871d1c,protect.plumbing,available,14.99,,high,low,7,name.com,,,
 432fcf3c-034f-4a3d-a459-401318835904,aurally.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,13/09/2026 22:46
+6597923e-ac83-4587-b399-6f0b00ca155a,reims.plumbing,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 13:45
 d5ddaacd-3f0d-4701-925f-1e0437172ccb,tornadoes.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,16/09/2026 14:14
 e2a08e7c-3fed-4cb1-95c4-24720bd2e29e,corroded.plumbing,available,14.99,94.99,medium,low,8,name.com,,,13/08/2026 02:05
 08ffe679-343a-4e39-927d-36c4e03f791b,tush.plumbing,available,14.99,94.99,medium,low,4,name.com,,,09/08/2026 11:45
 eacdb3a8-2bf8-40ec-b5f9-6b35b748ab98,agnate.plumbing,available,14.99,94.99,medium,low,6,name.com,,,
 ab3039c2-89f1-4a06-9137-b372531d79a6,aromatic.plumbing,available,76.98,89.98,high,low,8,namecheap,,,22/09/2026 08:02
-4a247ddc-1273-476c-b324-62651052c4c9,gee.plumbing,available,14.99,,high,low,3,name.com,,,
+4a247ddc-1273-476c-b324-62651052c4c9,gee.plumbing,available,56.2,56.2,high,low,3,cloudflare,,,29/09/2026 20:19
 498437bd-42e8-4f57-a83f-b864d902d37d,elemental.plumbing,available,14.99,94.99,high,low,9,name.com,,,16/08/2026 03:29
 320abae0-efed-48e9-9075-f8a30686e9bc,nutrients.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,21/09/2026 00:14
 45a37305-d0ee-4018-b387-da2163797cce,other.plumbing,available,72.99,72.99,high,low,5,namesilo,,,26/09/2026 00:34
@@ -311,6 +341,7 @@ b3bb7e2b-cb4b-4160-b709-e1f7adb8754e,coral.plumbing,available,72.99,72.99,high,l
 f2b06375-fa5b-40c1-8f62-d535f48fe63a,talentless.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,11/09/2026 07:28
 85d60bb2-8a39-46f8-bfb8-08ef9ba65516,posing.plumbing,available,72.99,72.99,high,low,6,namesilo,,,10/09/2026 08:59
 f608200a-b7bc-45ad-8f18-3f47e9b76e2b,shapely.plumbing,available,72.99,72.99,high,low,7,namesilo,,,10/09/2026 05:57
+199bd996-bb1b-4de9-9516-d5094fd86c68,inflation.plumbing,available,72.99,72.99,high,low,9,namesilo,,,29/09/2026 07:21
 8f9a752e-4d13-4e2b-866c-8f0a6e86e2f2,distinctly.plumbing,available,72.99,72.99,high,low,10,namesilo,,,14/09/2026 13:19
 4b32687e-dae2-496d-ada7-6201051b7d7c,party.plumbing,available,72.99,72.99,high,medium,5,namesilo,,,19/09/2026 09:39
 c34e5fba-64a1-46ba-8a47-d5330dfadee8,heartbeat.plumbing,available,14.99,94.99,high,low,9,name.com,,,22/08/2026 07:28
@@ -321,13 +352,15 @@ c111d03f-e97d-4f23-a3b6-bab04a504866,goodly.plumbing,available,14.99,94.99,high,
 80e9d2a6-07cc-4ddb-bd3a-6ed6e4120457,proven.plumbing,available,72.99,72.99,high,low,6,namesilo,,,27/09/2026 08:25
 d3030c26-3ed4-48e3-9837-f75f3020c5fc,serrate.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,03/09/2026 22:06
 88243f26-830a-4277-9f47-7e540537cad8,shaky.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,27/09/2026 14:56
-ed5cd3e8-97fb-4c48-b154-582515a193e3,tend.plumbing,available,14.99,,high,low,4,name.com,,,
+2871ae1f-25a8-4253-a007-5130ec7a2ed7,eel.plumbing,available,123.99,123.99,high,low,3,godaddy,,,30/09/2026 01:28
+ed5cd3e8-97fb-4c48-b154-582515a193e3,tend.plumbing,available,72.99,72.99,high,low,4,namesilo,,,29/09/2026 23:54
 f2df8e10-05da-48d0-876b-7dac4906fc02,albatross.plumbing,available,14.99,94.99,high,low,9,name.com,,,18/09/2026 02:28
 ef2a80bb-c64a-450c-aec1-953db76555f0,rejoin.plumbing,available,14.99,,high,low,6,name.com,,,
 6dc7038b-778d-4d3d-9737-91031012d282,steuben.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,22/09/2026 07:05
 610b9ea5-9184-4f22-840e-703d6ccc8e28,stands.plumbing,available,14.99,,medium,low,6,name.com,,,
 5f854368-0c02-4b08-a763-e022d7bcf6f0,updated.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,18/09/2026 06:09
 2567b997-2279-4434-888b-d1b37f44303e,cologne.plumbing,available,72.99,72.99,high,low,7,namesilo,,,24/09/2026 16:20
+2494012c-6c62-4a30-b70b-3c60473e01f3,tipping.plumbing,available,58.16,58.16,high,low,7,spaceship,,,29/09/2026 23:33
 88a2144d-e173-4eb7-81fe-6fb8e96b1792,farrell.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,25/09/2026 05:20
 c69316cd-4373-4351-8d1a-17a15a1af092,crosstown.plumbing,available,14.99,94.99,medium,low,9,name.com,,,13/08/2026 08:13
 5fa3de9b-d523-4ba3-9be2-6f95a3cda99a,moresque.plumbing,available,14.99,94.99,medium,low,8,name.com,,,25/08/2026 06:01
@@ -345,10 +378,11 @@ f72bd2f4-adaa-4922-ac42-1929c1e4ff7f,untaught.plumbing,available,76.98,89.98,med
 a3d00391-43d6-4c19-ac10-91c3678ad644,arboretum.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,20/09/2026 00:49
 33bfec52-5e78-446c-b666-0c3f3957aa48,actin.plumbing,available,76.98,89.98,medium,low,5,namecheap,,,17/09/2026 04:37
 b0bf0ba9-a7b5-4658-a15b-2ac6b085cf94,dispensary.plumbing,available,76.98,89.98,high,low,10,namecheap,,,24/09/2026 22:58
+b7f47a86-6ec8-4180-9db0-494517637a14,comply.plumbing,available,8.24,60.14,high,low,6,dynadot,,,29/09/2026 08:21
 247f4e5f-5943-4946-a09e-8a9a65e0924e,clv.plumbing,available,14.99,94.99,high,low,3,name.com,,,
 1ccfa008-b30f-4cfc-a98c-d439ac730e35,contorted.plumbing,available,14.99,94.99,medium,low,9,name.com,,,12/08/2026 23:22
-f3adb2c1-74e3-4e4f-abe8-3a859cede028,wuhan.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,29/09/2026 02:39
-57b20744-f1ea-44fc-bc9e-75abaa1bd71a,aldrich.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,28/09/2026 04:14
+f3adb2c1-74e3-4e4f-abe8-3a859cede028,wuhan.plumbing,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 02:39
+57b20744-f1ea-44fc-bc9e-75abaa1bd71a,aldrich.plumbing,available,72.99,72.99,high,low,7,namesilo,,,28/09/2026 04:14
 e3b60df0-0b51-4f34-9b5b-2776e3445957,infrequent.plumbing,available,14.99,94.99,medium,low,10,name.com,,,22/08/2026 04:50
 124df5ad-16ed-431b-ba6e-362465b81549,judy.plumbing,available,72.99,72.99,high,low,4,namesilo,,,25/09/2026 11:45
 7bbcbec3-d3a8-48b6-9975-b63b359bb21b,bagging.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,21/09/2026 18:06
@@ -359,7 +393,7 @@ e10d0a72-2014-420f-b653-cedfb4db9219,fountain.plumbing,available,56.2,56.2,high,
 70179cd7-f802-4ded-a412-95e50fbb4327,decently.plumbing,available,14.99,94.99,medium,low,8,name.com,,,13/08/2026 21:14
 d708ae45-54cf-4266-95d1-64019c0a0b5f,ams.plumbing,available,58.16,58.16,high,low,3,spaceship,,,28/09/2026 21:48
 24b41064-25bc-400e-9a47-6d64ded2f3a6,moravian.plumbing,available,14.99,94.99,high,low,8,name.com,,,25/08/2026 06:14
-b143e8e8-0dfc-427a-9c81-b4cacc3b52ef,gala.plumbing,available,14.99,,high,low,4,name.com,,,
+b143e8e8-0dfc-427a-9c81-b4cacc3b52ef,gala.plumbing,available,56.2,56.2,high,low,4,cloudflare,,,29/09/2026 20:31
 a852fe0b-ea98-41f0-89d4-82be8d41871b,remarkable.plumbing,available,72.99,72.99,high,low,10,namesilo,,,09/09/2026 13:42
 81dfb8cc-4069-40ed-a018-95332338240c,clickbait.plumbing,available,14.99,,medium,low,9,name.com,,,
 6520151b-6556-4d70-bbd9-13684c985ba6,mesmerized.plumbing,available,14.99,94.99,high,low,10,name.com,,,17/08/2026 22:50
@@ -369,7 +403,7 @@ aae764ce-fc58-416c-a636-1663194b6167,deformed.plumbing,available,14.99,94.99,med
 78de96e9-c05f-41c8-b876-23146bdc5a8b,babinski.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,21/09/2026 12:44
 097cb356-430c-43a5-9785-9a4c0142c909,ballade.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,21/09/2026 22:41
 e906a67e-8c87-4aa6-8f04-1cd02941037d,hafnium.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,20/09/2026 23:42
-e6dd085f-affc-423d-8bf0-be7761466c2a,expire.plumbing,available,14.99,,medium,low,6,name.com,,,
+e6dd085f-affc-423d-8bf0-be7761466c2a,expire.plumbing,available,58.16,58.16,high,low,6,spaceship,,,29/09/2026 12:11
 52218492-00b3-4513-a8cf-de6a352ebac5,tilted.plumbing,available,14.99,94.99,high,low,6,name.com,,,07/08/2026 13:29
 c1d30437-08ff-4463-a16b-5adeca8ac439,ada.plumbing,available,76.98,89.98,high,medium,3,namecheap,,,28/09/2026 18:12
 a023b17a-5fcd-4257-9f65-5ecc22cad035,flags.plumbing,available,14.99,,high,low,5,name.com,,,
@@ -380,7 +414,7 @@ d99abafa-a1f4-4302-93f0-7abfe566517a,escape.plumbing,available,72.99,72.99,high,
 63b28fbb-de46-4fd2-9c4a-df9b46c12222,plugin.plumbing,available,72.99,72.99,high,low,7,namesilo,,,17/09/2026 06:36
 b0b2563f-6241-4e98-bcf5-c2f76848a7f2,assure.plumbing,available,14.99,,high,low,6,name.com,,,
 3915a0c3-daec-466a-96fa-91e99c46caf6,willfully.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,16/09/2026 11:30
-ec255daa-709e-4f61-86fb-d61c1d0cbdfe,timid.plumbing,available,14.99,94.99,medium,low,5,name.com,,,11/08/2026 22:46
+ec255daa-709e-4f61-86fb-d61c1d0cbdfe,timid.plumbing,available,14.99,94.99,high,low,5,name.com,,,11/08/2026 22:46
 f74733b4-c2d2-452c-843e-01a638304c80,juridical.plumbing,available,14.99,94.99,medium,low,9,name.com,,,22/08/2026 14:40
 7e4e5cef-bc1c-48c3-99b4-32aec89228f3,greenhouse.plumbing,available,14.99,94.99,high,low,10,name.com,,,20/08/2026 19:51
 2a393e0e-11dc-46ad-b685-3897b0e52545,multiple.plumbing,available,72.99,72.99,high,low,8,namesilo,,,25/09/2026 22:06
@@ -389,9 +423,10 @@ c9c6fbf0-fef0-4188-9545-1b7cad86b9b5,upright.plumbing,available,14.99,94.99,high
 b31069b3-bf9b-4c4a-aed4-367d0008f3be,somerville.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,27/09/2026 01:44
 340c6925-95cb-436b-a10f-74ecb86349c2,engorge.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,23/09/2026 17:25
 a50cf508-c3b6-4628-9b84-6a6949420a90,ambystoma.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,18/09/2026 17:36
+80605360-3b87-48d9-80d5-60a5753e243f,haworth.plumbing,available,8.24,58.19,high,low,7,porkbun,,,29/09/2026 19:08
 971e0dc3-17a4-4b7c-b238-437f5aef0733,lightless.plumbing,available,14.99,94.99,medium,low,9,name.com,,,23/08/2026 04:36
 cd92b17b-f49a-482c-ad66-01235a176815,unwrinkled.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,12/09/2026 22:55
-96953758-3d60-4d47-b586-a547e465a18b,operation.plumbing,available,56.2,56.2,high,low,9,cloudflare,,,28/09/2026 02:52
+96953758-3d60-4d47-b586-a547e465a18b,operation.plumbing,available,58.16,58.16,high,low,9,spaceship,,,30/09/2026 02:52
 a3ca8aa6-1041-44f6-babf-2dbc45ece7a4,fancied.plumbing,available,14.99,94.99,high,low,7,name.com,,,17/08/2026 20:17
 9dd2d260-8637-49c8-900b-b1a61a37e9e5,playing.plumbing,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 16:27
 91d22f63-49fa-499d-8708-974b95b9c9ca,analogy.plumbing,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 21:11
@@ -399,8 +434,10 @@ a3ca8aa6-1041-44f6-babf-2dbc45ece7a4,fancied.plumbing,available,14.99,94.99,high
 093d1052-8a0a-494c-95d9-89be7e488fbe,axiom.plumbing,available,76.98,89.98,high,medium,5,namecheap,,,28/09/2026 23:58
 31e78934-53d1-4c27-a7f2-bca50dcf0663,flipped.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,18/09/2026 12:06
 a6152de2-0464-4dbf-8c8d-bd52855c0cdf,rules.plumbing,available,14.99,,high,low,5,name.com,,,
-93f32ccd-0760-4232-a50f-1a28ef5a689f,coat.plumbing,available,14.99,,high,low,4,name.com,,,
+93f32ccd-0760-4232-a50f-1a28ef5a689f,coat.plumbing,available,72.99,72.99,high,low,4,namesilo,,,29/09/2026 05:46
+0cfa5cfb-d018-4423-bfa7-7b367544e34b,comprehension.plumbing,available,72.99,72.99,high,low,13,namesilo,,,29/09/2026 23:00
 bedb7724-29b4-45e8-bf16-26d7d7d372f2,palmer.plumbing,available,72.99,72.99,high,low,6,namesilo,,,20/09/2026 08:18
+7bdc38c3-39f0-4bfe-a2b0-3fac0898a84d,initiated.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,29/09/2026 11:07
 eb3cd964-6323-477c-a6f7-c4434874b117,honduran.plumbing,available,14.99,94.99,medium,low,8,name.com,,,21/08/2026 13:17
 133ba18c-32ae-4b88-ba6d-e5ba40e66720,pageant.plumbing,available,72.99,72.99,high,low,7,namesilo,,,28/09/2026 02:36
 d8858d30-1b93-46b2-944d-e4726decc9bf,apsu.plumbing,available,72.99,72.99,medium,low,4,namesilo,,,19/09/2026 22:37
@@ -408,13 +445,15 @@ d8858d30-1b93-46b2-944d-e4726decc9bf,apsu.plumbing,available,72.99,72.99,medium,
 23a2d19d-1a6b-47b6-8942-cf40a0cfa58a,span.plumbing,available,76.98,89.98,high,low,4,namecheap,,,29/09/2026 00:16
 346a0266-d292-4df2-855a-a4213e9e9e03,speciality.plumbing,available,14.99,94.99,high,low,10,name.com,,,18/08/2026 12:32
 3a8608eb-cb24-49c4-8b8a-124a200a18f2,agrimonia.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,17/09/2026 19:28
+830aa0bf-24b7-4ade-8358-fa0393fd0b4f,idiots.plumbing,available,58.16,58.16,low,low,6,spaceship,,,29/09/2026 17:28
 985c0e0b-4a13-44d5-9647-b27bccc8cede,stripe.plumbing,available,76.98,89.98,high,low,6,namecheap,,,24/09/2026 14:22
-ca75d0fc-aec5-41ff-91c8-e4ddf01ed66c,incisive.plumbing,available,14.99,94.99,medium,low,8,name.com,,,22/08/2026 01:21
+09cd925e-2a0d-439a-bb29-2daa8aa6f644,skins.plumbing,available,56.2,56.2,high,low,5,cloudflare,,,29/09/2026 05:06
+ca75d0fc-aec5-41ff-91c8-e4ddf01ed66c,incisive.plumbing,available,14.99,94.99,high,low,8,name.com,,,22/08/2026 01:21
 50ea9f0e-1eb5-4d21-af8f-267b6b25de53,copycat.plumbing,available,72.99,72.99,high,low,7,namesilo,,,19/09/2026 16:27
 92ca9d7f-7206-4c06-af07-f333f5d6b85a,defaults.plumbing,available,72.99,72.99,low,low,8,namesilo,,,21/09/2026 07:23
 c63ce6a6-c3b0-43d1-96b0-0f0660976f6d,burst.plumbing,available,72.99,72.99,high,low,5,namesilo,,,24/09/2026 10:35
 1f360538-4c94-44d1-92ce-8f663fb0e528,coffeecake.plumbing,available,14.99,,high,low,11,name.com,,,
-8f9b9b10-8a1d-4d49-b974-af96d75ae05f,addendum.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,17/09/2026 06:41
+8f9b9b10-8a1d-4d49-b974-af96d75ae05f,addendum.plumbing,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 06:41
 605b1d4d-5cd8-4595-a699-ca221838d632,rossbach.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,22/09/2026 15:54
 a96e49a7-c680-4ab8-8320-f7ba7cc16a2c,scream.plumbing,available,72.99,72.99,high,low,6,namesilo,,,27/09/2026 18:35
 8be66557-76df-4963-a4de-b80f2b9a5ad6,smoothen.plumbing,available,72.99,72.99,high,low,8,namesilo,,,08/09/2026 23:04
@@ -422,51 +461,64 @@ a96e49a7-c680-4ab8-8320-f7ba7cc16a2c,scream.plumbing,available,72.99,72.99,high,
 1b67d29d-15f3-431a-b6b0-d73f4bea266c,worse.plumbing,available,58.16,58.16,high,low,5,spaceship,,,28/09/2026 10:56
 2f7d90ec-9c21-49c3-b636-3b0385951b7f,acerate.plumbing,available,14.99,94.99,medium,low,7,name.com,,,
 e8b3b6c4-7748-4649-a6c3-da16bef3c6ff,scrabble.plumbing,available,72.99,72.99,high,low,8,namesilo,,,24/09/2026 23:30
+082a9787-1d80-4726-867d-ab3937a0770e,secretaries.plumbing,available,58.16,58.16,medium,low,11,spaceship,,,30/09/2026 00:46
 16acd313-5b20-4cda-81a8-6ad0b237b711,cracker.plumbing,available,76.98,89.98,high,low,7,namecheap,,,24/09/2026 18:59
 104f2a51-f09b-48cd-a1f4-e03b27ad4160,molten.plumbing,available,14.99,94.99,high,low,6,name.com,,,25/08/2026 03:57
 a39ff270-6da9-47da-b11f-81bb6f8dee62,retro.plumbing,available,72.99,72.99,high,medium,5,namesilo,,,24/09/2026 15:44
 0d1777dd-c191-47e7-a43e-2f0cc71a6818,ellipse.plumbing,available,14.99,94.99,high,low,7,name.com,,,04/09/2026 19:52
-7ce469a2-eb43-48f6-8242-7ec558f687bb,strindberg.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,21/09/2026 03:49
+7ce469a2-eb43-48f6-8242-7ec558f687bb,strindberg.plumbing,available,72.99,72.99,high,low,10,namesilo,,,21/09/2026 03:49
 d0b79f9e-fc6d-4b2d-9769-1ec0300aa647,intersection.plumbing,available,14.99,,high,low,12,name.com,,,
+f30b2923-e2ce-4524-a68e-99347b188373,vinyl.plumbing,available,8.24,60.14,high,low,5,dynadot,,,29/09/2026 20:35
 6e4fbda7-0a86-4336-9ec9-606e61fecfce,mealy.plumbing,available,14.99,94.99,low,low,5,name.com,,,12/08/2026 14:05
 5134a642-a3cc-4f5b-958c-3e7feca6ea53,alabaster.plumbing,available,14.99,94.99,high,low,9,name.com,,,
 e285dffd-999c-42f4-9373-1b11975b45bd,naming.plumbing,available,8.24,58.19,high,low,6,porkbun,,,28/09/2026 08:38
-6468fba7-7c32-4525-b79e-e6e9b248299f,tuesdays.plumbing,available,14.99,,medium,low,8,name.com,,,
+6468fba7-7c32-4525-b79e-e6e9b248299f,tuesdays.plumbing,available,14.99,,high,low,8,name.com,,,
 b3994ab6-1a2b-4609-adc2-0379c7c10e50,dewey.plumbing,available,76.98,89.98,high,low,5,namecheap,,,17/09/2026 08:48
 8ecaad56-68d2-43dd-96df-1fc2557c3f7d,abyss.plumbing,available,76.98,89.98,high,low,5,namecheap,,,16/09/2026 19:43
 83a1afa9-95f5-4a76-bb8a-7dfcc87f5e9a,stays.plumbing,available,76.98,89.98,high,low,5,namecheap,,,24/09/2026 18:24
 046b4376-a0c1-48fd-81b9-d16593881358,ponderable.plumbing,available,14.99,94.99,medium,low,10,name.com,,,12/08/2026 15:42
 c63b9695-593e-4fa3-bfda-c118b00acc12,villainous.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,03/09/2026 14:59
-0dbd69bd-e24e-4098-bf6e-cd80bb21ba9d,bjs.plumbing,available,76.98,89.98,medium,low,3,namecheap,,,23/09/2026 23:25
+0dbd69bd-e24e-4098-bf6e-cd80bb21ba9d,bjs.plumbing,available,76.98,89.98,high,low,3,namecheap,,,23/09/2026 23:25
+01d2b5ef-1cc7-4d2d-8ae0-1a3fc438a6f5,invitations.plumbing,available,76.98,89.98,medium,low,11,namecheap,,,29/09/2026 11:30
+54a18354-d102-4fcb-b6a4-67c2801d4990,oils.plumbing,available,58.16,58.16,medium,low,4,spaceship,,,30/09/2026 00:28
 7b12bfff-f3d4-459f-a384-301985b3497c,eloquent.plumbing,available,14.99,94.99,high,low,8,name.com,,,16/08/2026 06:14
 ccabac74-33c9-41ca-a92f-c6e507df7ac8,alveolus.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,17/09/2026 22:03
+e58ab9d4-bc4a-4627-97f6-204d14df39b2,boar.plumbing,available,72.99,72.99,high,low,4,namesilo,,,29/09/2026 11:44
 33002894-c21d-4edc-a9a1-2591f7ff6d18,waterborne.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,13/09/2026 08:36
 30aff791-e4f6-4234-9d6c-559154f76bea,middling.plumbing,available,14.99,94.99,medium,low,8,name.com,,,22/08/2026 13:46
 b056560c-90cf-47b3-9de5-6a689c8ff443,hardbound.plumbing,available,14.99,94.99,medium,low,9,name.com,,,21/08/2026 00:42
+f78472f1-70d6-4c23-b25e-01255358b826,enlightened.plumbing,available,8.24,60.14,high,low,11,dynadot,,,29/09/2026 20:59
+c625e068-88d4-4060-b945-95b7d79d6025,blouse.plumbing,available,8.24,60.14,high,low,6,dynadot,,,29/09/2026 06:07
 beef3cd1-0919-4bdc-8b06-d0655e187f25,anabaptist.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,19/09/2026 00:49
 42fbe7d4-d993-4f84-aa62-5e533d06a52a,drily.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,14/09/2026 14:23
+cd698592-2d57-46d6-97dd-a51bc4b344d0,uaw.plumbing,available,58.16,58.16,medium,low,3,spaceship,,,29/09/2026 21:51
 b3050120-89b4-466a-abec-654bc5d421de,nasa.plumbing,available,56.2,56.2,high,low,4,cloudflare,,,28/09/2026 19:59
 1187bd60-0feb-4f21-83bc-2e5687d0d817,amora.plumbing,available,72.99,72.99,high,low,5,namesilo,,,18/09/2026 22:38
 8f870f6e-de0c-4d75-82cd-8db966c9b5cf,francium.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,20/09/2026 23:59
-d2c33da5-8a29-4d70-ae09-4f666697061d,adverse.plumbing,available,14.99,94.99,medium,low,7,name.com,,,
+d2c33da5-8a29-4d70-ae09-4f666697061d,adverse.plumbing,available,14.99,94.99,high,low,7,name.com,,,
 5ec1d555-5adc-4ae0-9476-365c83ac5e1c,cloudberry.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,21/09/2026 20:03
 a3a66b69-75fd-4618-aa14-a6d1999000d0,catarrhine.plumbing,available,14.99,94.99,medium,low,10,name.com,,,11/08/2026 21:11
 dc406b76-e246-402b-820d-c9578fa0c9a6,formalize.plumbing,available,14.99,,high,low,9,name.com,,,
 2f71693b-a2ce-40e9-8f1a-92eb87a56359,mesozoic.plumbing,available,14.99,94.99,medium,low,8,name.com,,,24/08/2026 21:21
+381a4f03-bc4b-4a7d-8964-4dc5b38341f7,weaken.plumbing,available,56.2,56.2,medium,low,6,cloudflare,,,29/09/2026 18:30
 9ddd6e96-c775-4413-aeba-58c9325d72d8,pent.plumbing,available,72.99,72.99,medium,low,4,namesilo,,,08/09/2026 14:42
-898df8d9-af6e-4418-982c-2df5698bbb39,passbook.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,22/09/2026 02:44
+898df8d9-af6e-4418-982c-2df5698bbb39,passbook.plumbing,available,72.99,72.99,high,low,8,namesilo,,,22/09/2026 02:44
+59c152a4-ba84-4730-9f1f-10cbca56af0a,efl.plumbing,available,58.16,58.16,high,low,3,spaceship,,,29/09/2026 09:34
 67b7d7bc-8e17-4747-bc0b-680aab4cfaa8,polyphase.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,03/09/2026 10:52
 e8f2c51f-dab7-4956-8d39-3eacc6e51405,heedful.plumbing,available,14.99,94.99,medium,low,7,name.com,,,
 664a2334-138f-4bc4-a93c-32bd21af75e8,runyon.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,18/09/2026 06:27
 4e0f38d4-eb24-4e52-8bc0-4540cf9f30fd,tractive.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,11/09/2026 18:40
+bbeeb166-cf1c-48d8-a5fe-63ffbfdb8be8,mailing.plumbing,available,123.99,123.99,high,low,7,godaddy,,,30/09/2026 02:11
 86d7293f-e35f-4567-a020-5f77df204bc4,signing.plumbing,available,72.99,72.99,high,low,7,namesilo,,,27/09/2026 05:19
-1e3a5623-94ce-49cd-9197-8fd2413c6854,spaces.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,28/09/2026 17:55
+1e3a5623-94ce-49cd-9197-8fd2413c6854,spaces.plumbing,available,58.16,58.16,high,low,6,spaceship,,,28/09/2026 17:55
 a45dc85d-7a03-43ab-ac72-352c56f2bb6a,olympics.plumbing,available,14.99,,high,low,8,name.com,,,
+ac7789d6-d5ec-4cb4-9935-d513555f6e39,dekker.plumbing,available,76.98,89.98,high,low,6,namecheap,,,29/09/2026 18:35
 f8224fe9-8dec-4c51-9810-737cd51da099,vacantly.plumbing,available,72.99,72.99,low,low,8,namesilo,,,16/09/2026 10:32
 d5f2395c-e1f6-462b-ab10-b8bf3657f8c9,clouded.plumbing,available,14.99,94.99,medium,low,7,name.com,,,12/08/2026 12:27
 50691f9a-11bc-4117-a32c-b4c0cf048f12,wily.plumbing,available,14.99,94.99,medium,low,4,name.com,,,13/08/2026 04:38
 0692e2bc-cdb9-4184-99fe-f5325349df7e,trig.plumbing,available,14.99,94.99,high,low,4,name.com,,,12/08/2026 10:13
-46bb3bf5-535f-4cec-900c-006a78dc9aa6,accrual.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,16/09/2026 23:14
+46bb3bf5-535f-4cec-900c-006a78dc9aa6,accrual.plumbing,available,76.98,89.98,high,low,7,namecheap,,,16/09/2026 23:14
+2c82f906-f142-4b67-b090-c46ca2ca4db4,inflammation.plumbing,available,58.16,58.16,medium,low,12,spaceship,,,29/09/2026 23:01
 4c5458af-6c0d-4fc0-a90b-7295a43989e6,nitrous.plumbing,available,14.99,94.99,high,low,7,name.com,,,08/08/2026 03:03
 0533d1de-3b5e-4a2f-8679-359f0b262e5a,seals.plumbing,available,14.99,,high,low,5,name.com,,,
 f07303bf-0f34-453f-bb77-606799137f64,debauch.plumbing,available,14.99,94.99,medium,low,7,name.com,,,13/08/2026 02:20
@@ -475,26 +527,33 @@ f07303bf-0f34-453f-bb77-606799137f64,debauch.plumbing,available,14.99,94.99,medi
 6e427f3f-bbdf-4fbd-af83-ba15dec9da64,persisting.plumbing,available,14.99,94.99,high,low,10,name.com,,,14/08/2026 15:05
 297d4cc5-aae9-4fc3-956d-741f7072e1fe,adieu.plumbing,available,58.16,58.16,high,low,5,spaceship,,,28/09/2026 18:34
 b685f648-c37d-4015-b1d2-749f937e2198,diffused.plumbing,available,14.99,94.99,medium,low,8,name.com,,,14/08/2026 07:08
+00de8cee-793d-471f-839e-2a394d0a5313,cruising.plumbing,available,8.24,58.19,high,low,8,porkbun,,,29/09/2026 05:15
 d0e675bf-c912-41c9-bd49-53ab32f2b1e0,combination.plumbing,available,72.99,72.99,high,low,11,namesilo,,,27/09/2026 02:14
 25938364-5754-48e6-9bab-1c4a17281c35,archerfish.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,20/09/2026 01:56
 9528c12a-e592-448d-b8c8-4260bafec741,possession.plumbing,available,14.99,,high,low,10,name.com,,,
+a0e7d2b5-e31e-4f98-9e3f-957be351ac5a,dramatically.plumbing,available,72.99,72.99,high,low,12,namesilo,,,29/09/2026 14:45
+0aa0598c-4ed4-43b8-a320-1abacd39bdeb,homage.plumbing,available,58.16,58.16,high,low,6,spaceship,,,30/09/2026 01:53
 b3d4037f-db17-43cb-b940-8a26e691b5f1,logrolling.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,23/09/2026 20:50
 d40fc7bd-a63b-4a37-b7e8-3adffb748972,trex.plumbing,available,72.99,72.99,high,low,6,namesilo,,,18/09/2026 12:51
+d4dc708e-c221-4f5b-b10e-ee444e0087e2,golgi.plumbing,available,72.99,72.99,high,low,5,namesilo,,,30/09/2026 00:57
 4881dece-0430-4226-8cac-0ac2beba54c2,humane.plumbing,available,72.99,72.99,high,low,6,namesilo,,,25/09/2026 06:31
-3ede2e26-d4d7-4aad-80b0-63b878f0f8ee,calender.plumbing,available,14.99,,high,low,8,name.com,,,
-b697d7b1-56b3-4f44-8c47-72a878d28737,tails.plumbing,available,14.99,,high,low,5,name.com,,,
+3ede2e26-d4d7-4aad-80b0-63b878f0f8ee,calender.plumbing,available,58.16,58.16,high,low,8,spaceship,,,29/09/2026 05:50
+b697d7b1-56b3-4f44-8c47-72a878d28737,tails.plumbing,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 16:50
 cda857ed-fe71-4b19-939b-a44938650ff7,underneath.plumbing,available,72.99,72.99,high,low,10,namesilo,,,16/09/2026 09:57
 a1f748d2-722b-4e54-b7e0-f4bb0dd0d46d,exercise.plumbing,available,72.99,72.99,high,low,8,namesilo,,,19/09/2026 09:45
 f586ef4f-94a8-4b74-8dc4-c9e8448aa650,arcsec.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,20/09/2026 01:25
+fd67458a-96e9-43b9-8106-9615f6391dcc,fundamentally.plumbing,available,58.16,58.16,medium,low,13,spaceship,,,29/09/2026 20:57
 5b800cba-059d-4919-a8a1-fc2d08feb175,undefeated.plumbing,available,14.99,94.99,high,low,10,name.com,,,12/09/2026 07:12
 25b79141-4fac-45e4-b7b9-1e26e097ddd8,clients.plumbing,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 03:50
+0e04f8e5-c877-4409-9059-19bf814f308f,dix.plumbing,available,8.24,58.19,high,low,3,porkbun,,,29/09/2026 12:04
 5c6c8581-a568-4c08-9906-dbd0de9f0abb,nonhuman.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,03/09/2026 19:22
+0a6a8922-d299-4ea7-8043-eead2c7c9e6e,participated.plumbing,available,8.24,60.14,medium,low,12,dynadot,,,29/09/2026 23:55
 7a3b4f7d-ce52-4b2e-bdf1-a8c8b4ffe4f8,misses.plumbing,available,14.99,,high,low,6,name.com,,,
 09998746-9920-4966-b272-4200daeda2fa,kurds.plumbing,available,8.24,58.19,medium,low,5,porkbun,,,28/09/2026 05:10
 df70fe24-753a-4d68-8af1-355e1186c680,prophet.plumbing,available,72.99,72.99,high,low,7,namesilo,,,28/09/2026 02:52
 637b3fba-ac81-4372-9b75-227a8638c9f6,airy.plumbing,available,14.99,94.99,high,low,4,name.com,,,
 c5e454c7-e848-4f23-85a3-07b75bb338e6,hussein.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,25/09/2026 07:40
-ef70cc58-6517-4655-9b3d-6fe8552618ae,mendoza.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,27/09/2026 07:53
+ef70cc58-6517-4655-9b3d-6fe8552618ae,mendoza.plumbing,available,76.98,89.98,high,low,7,namecheap,,,27/09/2026 07:53
 2ea99004-9c6a-4948-a654-f8d127772e68,resume.plumbing,available,72.99,72.99,high,low,6,namesilo,,,24/09/2026 04:16
 d919ba2b-a8c7-45e8-8fab-258b153971b3,reviving.plumbing,available,72.99,72.99,high,low,8,namesilo,,,09/09/2026 14:08
 33695e94-d1c2-4fd8-9774-c39f2c8165fe,autoloader.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,21/09/2026 06:48
@@ -509,6 +568,7 @@ ea9f2dd9-9214-4e72-aedc-0d6aefce28cb,budding.plumbing,available,14.99,94.99,high
 c2be1aff-4a19-4ea1-89ce-4f57581dd664,heatless.plumbing,available,14.99,94.99,medium,low,8,name.com,,,21/08/2026 02:27
 9b0cb573-40c1-418e-9818-daee18044738,promised.plumbing,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 11:24
 0071fcd7-aa00-46e6-9dde-1d557eaa833a,intriguing.plumbing,available,72.99,72.99,high,low,10,namesilo,,,25/09/2026 10:52
+d6d44ff6-380a-4b21-9cfe-d23649290574,hobbes.plumbing,available,72.99,72.99,high,low,6,namesilo,,,29/09/2026 07:16
 e7250153-7616-443a-a3b9-c8850a15f174,nonpolar.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,03/09/2026 20:17
 6f0002f7-e5e6-424c-839e-a661b128a927,morals.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,28/09/2026 14:04
 1563d73b-9098-4c05-b430-36633675970c,briefly.plumbing,available,72.99,72.99,high,low,7,namesilo,,,28/09/2026 13:31
@@ -517,22 +577,23 @@ d48e6df2-319d-4a01-bc41-d229b7347bfd,estimators.plumbing,available,72.99,72.99,m
 6fc3de9c-255e-4ca5-af2c-3262c6556dd7,concave.plumbing,available,14.99,94.99,high,low,7,name.com,,,12/08/2026 19:50
 fdcd1853-59e8-424b-949c-b32fcf68c643,dazzlingly.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,14/09/2026 10:58
 565481a5-e097-4f79-a5af-8a361412971d,berber.plumbing,available,76.98,89.98,high,low,6,namecheap,,,23/09/2026 09:07
-3db60579-0ee5-441a-811a-45858da7c2ad,concussion.plumbing,available,14.99,,high,low,10,name.com,,,
+3db60579-0ee5-441a-811a-45858da7c2ad,concussion.plumbing,available,72.99,72.99,high,low,10,namesilo,,,29/09/2026 10:35
 223a1dff-c34d-457a-88d0-6a3422681b34,awhile.plumbing,available,76.98,89.98,medium,low,6,namecheap,,,28/09/2026 13:12
 384d3f0e-bd1f-4792-b290-08b68327d510,vacations.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,20/09/2026 00:12
 46249e2b-6cc8-428a-aa89-2921ec0c823d,bmus.plumbing,available,72.99,72.99,medium,low,4,namesilo,,,21/09/2026 14:14
 c269fca2-dd8d-4422-9371-ca82ee53e857,barcelona.plumbing,available,76.98,89.98,high,low,9,namecheap,,,22/09/2026 05:08
-0c0c4ad4-161c-4cc7-95a4-32a475b24da8,chanukkah.plumbing,available,14.99,,medium,low,9,name.com,,,
+0c0c4ad4-161c-4cc7-95a4-32a475b24da8,chanukkah.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,29/09/2026 08:11
 a1f68a3b-173c-4caf-890a-828c66e6f95d,wolverine.plumbing,available,72.99,72.99,high,low,9,namesilo,,,24/09/2026 12:48
 90d86388-4efa-4d30-b562-965a365710d0,mere.plumbing,available,76.98,89.98,high,low,4,namecheap,,,25/09/2026 19:33
 cfa49c93-9c33-45b1-b4f2-5cf4e872bf8b,jumped.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,25/09/2026 19:41
+99d612d4-8e29-42c3-8f72-9be80efe2513,positioning.plumbing,available,58.16,58.16,high,low,11,spaceship,,,29/09/2026 14:53
 c2365386-b9ed-4462-a72d-f0c29a1715fa,binge.plumbing,available,72.99,72.99,high,low,5,namesilo,,,23/09/2026 17:18
 8055f7f1-ac04-4d3f-b365-b948bf947a62,achilles.plumbing,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 00:40
 d99efb03-ac12-4463-9e24-3b4996805f00,sublimate.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,11/09/2026 00:01
 43a42f69-49e7-4cb1-bfea-543248a401bd,napped.plumbing,available,14.99,94.99,medium,low,6,name.com,,,18/08/2026 07:44
 12f8feb8-9101-44fa-93bd-528e874584e5,surprised.plumbing,available,72.99,72.99,high,low,9,namesilo,,,28/09/2026 02:04
 188a06bb-50e9-4f3e-b03c-a591a696f5f0,targeted.plumbing,available,56.2,56.2,medium,low,8,cloudflare,,,28/09/2026 21:29
-8313fc62-09cb-4b73-be4d-0d62a2584e8f,credit.plumbing,available,14.99,,high,low,6,name.com,,,
+8313fc62-09cb-4b73-be4d-0d62a2584e8f,credit.plumbing,available,72.99,72.99,high,low,6,namesilo,,,29/09/2026 09:26
 a1eaa30a-00d0-4c3d-85ee-c7127aaa6f64,backhand.plumbing,available,14.99,94.99,high,low,8,name.com,,,08/08/2026 05:43
 0286165e-9de1-4b6e-9e0c-f8b92da220e0,sublingual.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,11/09/2026 00:14
 f17c3037-4721-43b4-980b-34d1ee3f7b2a,replaces.plumbing,available,72.99,72.99,high,low,8,namesilo,,,20/09/2026 05:35
@@ -540,20 +601,24 @@ f17c3037-4721-43b4-980b-34d1ee3f7b2a,replaces.plumbing,available,72.99,72.99,hig
 a8188aff-2234-4ed7-9d96-b53ec123bdc9,tim.plumbing,available,72.99,72.99,high,medium,3,namesilo,,,25/09/2026 11:26
 3289a178-4898-45c8-ae71-41d29560895d,killingly.plumbing,available,72.99,72.99,low,low,9,namesilo,,,15/09/2026 10:22
 a8daebe8-e478-4d65-930f-535bebe26c73,mirish.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,16/09/2026 16:36
-8d5e77fe-cb50-4b48-8675-b0a2377efd3d,lion.plumbing,available,14.99,,high,low,4,name.com,,,
+8d5e77fe-cb50-4b48-8675-b0a2377efd3d,lion.plumbing,available,123.99,123.99,high,medium,4,godaddy,,,30/09/2026 01:36
+4b74d73b-27ac-499f-8029-b28c1d4a76e3,inglis.plumbing,available,58.16,58.16,high,low,6,spaceship,,,29/09/2026 14:51
 8be461a9-bf5b-4fcd-aa99-8a1155ee303b,bradley.plumbing,available,14.99,94.99,high,low,7,name.com,,,25/09/2026 02:09
 1175a8dc-2cf2-43cf-8848-169b23bc386d,promotive.plumbing,available,72.99,72.99,high,low,9,namesilo,,,09/09/2026 03:13
 620b0f5a-3a93-4f91-a6ab-1173fcc5e814,option.plumbing,available,72.99,72.99,high,low,6,namesilo,,,22/09/2026 02:42
 9245abe3-7895-4048-9d17-537c79405333,sousaphone.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,22/09/2026 11:51
 fbc1e0b1-1932-496c-aa95-faf7e50da472,turkic.plumbing,available,14.99,94.99,medium,low,6,name.com,,,11/09/2026 21:14
 44256479-c7c1-48bf-aca5-2f633a6de848,pugnacious.plumbing,available,14.99,94.99,medium,low,10,name.com,,,21/08/2026 00:21
-2c145e5c-2095-4769-baea-60b75b4ee467,purposive.plumbing,available,14.99,94.99,medium,low,9,name.com,,,20/08/2026 15:51
+2c145e5c-2095-4769-baea-60b75b4ee467,purposive.plumbing,available,14.99,94.99,high,low,9,name.com,,,20/08/2026 15:51
+78b138d8-4064-45ab-b2d9-855d0bd856cb,decree.plumbing,available,8.24,58.19,high,low,6,porkbun,,,29/09/2026 18:35
 12107f24-5a6c-4de8-ac1f-4d5219b32436,tapped.plumbing,available,72.99,72.99,high,low,6,namesilo,,,11/09/2026 08:19
+c744ffbe-a387-43ff-b38a-ca5aefc138a6,shifted.plumbing,available,58.16,58.16,medium,low,7,spaceship,,,29/09/2026 17:17
 87e7a391-f617-4424-849b-662a1ad15922,heartily.plumbing,available,72.99,72.99,high,low,8,namesilo,,,14/09/2026 08:41
+8f05127f-df8e-46cd-aaa7-121a5986d1a7,layers.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,29/09/2026 04:54
 0c7494e3-25af-446b-88c5-e6b828117019,sunbeam.plumbing,available,14.99,,high,low,7,name.com,,,
 fdfc8114-34c1-4d8d-b412-0bf18faba9b4,labored.plumbing,available,14.99,94.99,medium,low,7,name.com,,,22/08/2026 17:34
 3ff56b1d-53b6-4192-967d-fa731e0f599f,sheriff.plumbing,available,58.16,58.16,high,low,7,spaceship,,,27/09/2026 15:50
-81f8f5a7-2740-4f42-8c68-66f72178998c,shallot.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,18/09/2026 11:16
+81f8f5a7-2740-4f42-8c68-66f72178998c,shallot.plumbing,available,72.99,72.99,high,low,7,namesilo,,,18/09/2026 11:16
 3ebd9a02-e81c-4152-8cac-19861c309dcc,pretender.plumbing,available,76.98,89.98,high,low,9,namecheap,,,08/09/2026 19:12
 7769fe36-975e-4a9b-9db0-987fa42ecc39,westport.plumbing,premium,242,242,medium,low,8,namesilo,,,28/09/2026 08:11
 02c2ec57-20f4-4a02-9281-9145d8bff7b4,maple.plumbing,available,76.98,89.98,high,medium,5,namecheap,,,28/09/2026 06:21
@@ -568,15 +633,17 @@ c7ac033b-a989-4e7d-bb6d-d8448c2a885d,recommend.plumbing,available,56.2,56.2,high
 4592fd2c-1653-4cc6-8870-f2ec5de72960,dig.plumbing,available,76.98,89.98,high,low,3,namecheap,,,24/09/2026 23:51
 f211b0d6-06c2-4f7c-8aa1-dff839d03676,spotlessly.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,16/09/2026 06:37
 727c6f68-9308-4ead-bf44-2edec71531a5,sudsy.plumbing,available,14.99,94.99,medium,low,5,name.com,,,22/08/2026 20:37
-3dc5862a-0c26-41b8-83ea-56ca03394b41,childless.plumbing,available,14.99,94.99,medium,low,9,name.com,,,12/08/2026 05:10
+3dc5862a-0c26-41b8-83ea-56ca03394b41,childless.plumbing,available,14.99,94.99,high,low,9,name.com,,,12/08/2026 05:10
 d54b2850-a6ca-4556-98e2-f5156548e397,basting.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,22/09/2026 12:43
 8fa4b33c-aa77-4baf-b06e-d13f29c8357c,boarded.plumbing,available,14.99,,high,low,7,name.com,,,
+2e529673-b03c-4869-8ecc-fa81b552ad6c,bred.plumbing,available,58.16,58.16,high,low,4,spaceship,,,29/09/2026 14:17
 9f1ef252-7cd1-44bd-a3ec-7177cf7086c0,elected.plumbing,available,14.99,94.99,high,low,7,name.com,,,16/08/2026 02:35
 2ecdfd90-51c8-4e00-96ae-3b22b4cb32af,asymptotic.plumbing,available,14.99,94.99,medium,low,10,name.com,,,07/08/2026 10:30
-c75b8813-ef18-4304-87e7-f0e398e3029f,rostrum.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,18/09/2026 17:15
+c75b8813-ef18-4304-87e7-f0e398e3029f,rostrum.plumbing,available,72.99,72.99,high,low,7,namesilo,,,18/09/2026 17:15
 4be00cb3-3123-46aa-ab03-5275dd50103b,rakes.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,20/09/2026 22:29
 ae446ef3-0cd3-4cf2-a398-3f19b3140c82,communism.plumbing,available,72.99,72.99,high,low,9,namesilo,,,24/09/2026 16:38
 0b7656ac-8aa1-47c1-9be4-fa61932cbfab,geraldine.plumbing,available,58.16,58.16,medium,low,9,spaceship,,,28/09/2026 11:54
+36c2cd35-7520-4fbe-8583-23922779933d,reece.plumbing,premium,,,high,medium,5,"CSC Corporate Domains, Inc.",03/02/2014 05:58,03/02/2027 05:58,29/09/2026 22:09
 3699ef33-0475-49e4-96be-a763d78d96ef,poetic.plumbing,available,72.99,72.99,high,low,6,namesilo,,,08/09/2026 22:33
 f414dd6c-962e-4066-85c0-30c3a573ced0,insular.plumbing,available,14.99,94.99,medium,low,7,name.com,,,22/08/2026 07:38
 90bc3e03-5e0f-4e1e-8a31-dc346196f7ba,delightful.plumbing,available,72.99,72.99,high,low,10,namesilo,,,24/09/2026 05:38
@@ -587,17 +654,18 @@ e1719679-e954-40e5-88d0-3768e204ecf1,amour.plumbing,available,76.98,89.98,high,l
 ffaece5d-ad9c-4f61-ac69-b40f408bc011,springless.plumbing,available,72.99,72.99,low,low,10,namesilo,,,10/09/2026 16:51
 309824ca-ce70-457b-a616-f07a265b70e0,swine.plumbing,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 02:16
 05af213b-2ac0-4d18-a454-07168922d6e3,quantized.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,09/09/2026 07:30
+560b6a93-e2ee-469f-ab85-0e981c3b9b3d,injected.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,29/09/2026 10:57
 54187247-1012-4261-926c-eed1e5421cc2,homeless.plumbing,available,14.99,94.99,high,low,8,name.com,,,14/08/2026 12:07
 e0865dc2-cda7-4a7c-a7e0-77e9838b82a3,directly.plumbing,available,72.99,72.99,high,low,8,namesilo,,,24/09/2026 10:41
 ab427bf7-a4eb-4c24-b565-496881040ca3,heracles.plumbing,available,72.99,72.99,high,low,8,namesilo,,,18/09/2026 04:03
 9f08a12d-ac23-4ef1-b94d-b5961c9dd88a,bridges.plumbing,available,58.16,58.16,high,low,7,spaceship,,,29/09/2026 04:06
 bf97d05c-2170-4bf7-aa1c-5b3257a46003,avulsion.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,21/09/2026 09:54
-d4749939-69ed-44d0-9811-d5f53749760d,mallard.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,19/09/2026 03:01
+d4749939-69ed-44d0-9811-d5f53749760d,mallard.plumbing,available,72.99,72.99,high,low,7,namesilo,,,19/09/2026 03:01
 78d46c08-f9c5-40b7-b2a3-22f4c9c41c5b,incased.plumbing,available,14.99,94.99,medium,low,7,name.com,,,11/08/2026 20:08
 6d7d7da6-4c26-4c6e-8cf4-192ff3f76c53,delegation.plumbing,available,76.98,89.98,high,low,10,namecheap,,,24/09/2026 21:32
 274df71b-ccc0-4a4b-825d-8c3ff4d9e809,cinema.plumbing,available,56.2,56.2,high,low,6,cloudflare,,,28/09/2026 05:06
 f261a2c4-cb29-404e-b1cc-f35bbf527921,gallican.plumbing,available,14.99,94.99,medium,low,8,name.com,,,18/08/2026 19:40
-d83bed8a-79b3-4247-b5f3-985c8f06e357,except.plumbing,available,14.99,,high,low,6,name.com,,,
+d83bed8a-79b3-4247-b5f3-985c8f06e357,except.plumbing,available,58.16,58.16,high,low,6,spaceship,,,29/09/2026 13:57
 c0c2808f-5227-431a-b0f7-99b0bb8110b8,catechetic.plumbing,available,14.99,94.99,medium,low,10,name.com,,,11/08/2026 21:25
 00e8c4ea-e81a-4826-8b4e-b70aa48529c5,dense.plumbing,available,72.99,72.99,high,low,5,namesilo,,,08/09/2026 15:39
 7541bcb7-b551-4591-a0dc-47677a273537,vermicular.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,13/09/2026 02:27
@@ -605,6 +673,7 @@ c0c2808f-5227-431a-b0f7-99b0bb8110b8,catechetic.plumbing,available,14.99,94.99,m
 5c218fa5-2986-42b9-964e-0658f5682a5f,asocial.plumbing,available,14.99,94.99,medium,low,7,name.com,,,07/08/2026 04:36
 ed9829b7-dfb7-4768-bf75-6190893adbe5,wary.plumbing,available,14.99,94.99,medium,low,4,name.com,,,22/08/2026 22:32
 5b529c12-5358-41ac-9fb8-ae2644ae16d0,simulation.plumbing,available,58.16,58.16,high,low,10,spaceship,,,28/09/2026 10:50
+e64535d3-9a23-43f8-ac71-de2d89719f85,relativity.plumbing,available,58.16,58.16,high,low,10,spaceship,,,29/09/2026 12:09
 a8db40c1-0bae-4a6d-b15c-4896d120f34d,untwisted.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,12/09/2026 21:56
 528796f7-a62b-4ff8-9df3-0ad38c68e7f9,cough.plumbing,available,76.98,89.98,high,low,5,namecheap,,,24/09/2026 18:37
 05936466-7707-47c1-a7c7-4e3d536d7cb8,cadge.plumbing,available,14.99,94.99,medium,low,5,name.com,,,11/08/2026 09:28
@@ -618,14 +687,15 @@ fef1e9ad-179f-4961-b90e-0369b3feeb40,truth.plumbing,available,58.16,58.16,high,m
 af4ee0df-9cfe-4ae6-8a66-d48f98db5ceb,readily.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,15/09/2026 21:42
 0c57bcfa-6d92-4bb4-9f6b-838c82e13e33,ancillary.plumbing,available,14.99,94.99,high,low,9,name.com,,,
 43fb38f7-6316-4ba0-a9a7-8e8fea251adb,japanese.plumbing,available,14.99,94.99,high,low,8,name.com,,,22/08/2026 12:22
+322a834b-ef11-43aa-850c-cff306eac1ea,armagh.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,29/09/2026 10:03
 b494887d-1d4e-4ebb-8aa8-e12c7e8cc963,aditi.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,17/09/2026 08:22
 33a341f6-b409-45db-8e74-0e09fb44e76c,socialist.plumbing,available,72.99,72.99,high,low,9,namesilo,,,10/09/2026 13:19
-d7123705-b4bf-4d6d-afb1-12cd2a489120,enactment.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,17/09/2026 04:06
+d7123705-b4bf-4d6d-afb1-12cd2a489120,enactment.plumbing,available,72.99,72.99,high,low,9,namesilo,,,17/09/2026 04:06
 a37c08de-969a-412b-8330-b411ef289a61,winged.plumbing,available,14.99,94.99,high,low,6,name.com,,,13/09/2026 12:29
 88375d17-3df8-4da4-814a-081dc3b35e5e,littler.plumbing,available,14.99,94.99,medium,low,7,name.com,,,24/08/2026 07:33
 c397eb38-a2c3-48c7-bed5-cc6288692d9e,blackbuck.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,19/09/2026 14:39
 1f902433-90e2-4ab6-a0aa-d1b19c8f2da2,naughty.plumbing,available,14.99,94.99,high,low,7,name.com,,,18/08/2026 20:00
-c5d6103e-177d-47cd-8b7b-79f572956c5a,santiago.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,28/09/2026 13:37
+c5d6103e-177d-47cd-8b7b-79f572956c5a,santiago.plumbing,available,72.99,72.99,high,low,8,namesilo,,,28/09/2026 13:37
 6a5721ef-9b1f-4f88-b5dc-afab0f860d60,hosting.plumbing,available,56.2,56.2,high,medium,7,cloudflare,,,28/09/2026 02:41
 dc8524b3-cffb-46b5-9d1e-49f6d8530b88,ahriman.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,17/09/2026 20:33
 ce3e47e8-9e40-4fbc-b751-e1c75db2858f,keyboards.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,20/09/2026 13:46
@@ -637,16 +707,17 @@ ce3e47e8-9e40-4fbc-b751-e1c75db2858f,keyboards.plumbing,available,76.98,89.98,me
 745883bc-74b6-45ec-a989-fd10fa38ab31,birchbark.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,23/09/2026 19:23
 5598c15c-10a5-4883-bc9c-ea7927cf1447,taken.plumbing,available,72.99,72.99,high,low,5,namesilo,,,25/09/2026 10:20
 b939007a-9bf6-451f-83e1-1cb51b8f3b83,nearby.plumbing,available,72.99,72.99,high,low,6,namesilo,,,03/09/2026 14:32
-61577bbe-0ab1-4a7f-bad5-0a28da26d84c,crusty.plumbing,available,14.99,94.99,medium,low,6,name.com,,,13/08/2026 09:26
+61577bbe-0ab1-4a7f-bad5-0a28da26d84c,crusty.plumbing,available,14.99,94.99,high,low,6,name.com,,,13/08/2026 09:26
 00b76f25-4f2f-46bc-9573-db92bb3046be,bohme.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,23/09/2026 03:34
-bbbd0095-577c-4ce3-b79d-af3730bb28f5,oberlin.plumbing,available,8.24,60.14,medium,low,7,dynadot,,,28/09/2026 04:20
-176ea752-d3ef-4990-9113-6a0d8dff6fac,asker.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,20/09/2026 14:27
+bbbd0095-577c-4ce3-b79d-af3730bb28f5,oberlin.plumbing,available,8.24,60.14,high,low,7,dynadot,,,28/09/2026 04:20
+176ea752-d3ef-4990-9113-6a0d8dff6fac,asker.plumbing,available,72.99,72.99,high,low,5,namesilo,,,20/09/2026 14:27
 8ded8606-7dd1-4255-8052-bc077ada41cb,calendars.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,16/09/2026 19:52
-05d36069-4912-4882-b207-8a7cce18fae8,elderberry.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,24/09/2026 00:39
+05d36069-4912-4882-b207-8a7cce18fae8,elderberry.plumbing,available,72.99,72.99,high,low,10,namesilo,,,24/09/2026 00:39
 4ba7e1f7-c0dd-4e5a-8f15-5aacd0ef446e,dividable.plumbing,available,14.99,94.99,medium,low,9,name.com,,,14/08/2026 13:41
 a02a1539-c78e-470d-8e64-d9d7ce01a0c6,turds.plumbing,available,72.99,72.99,low,low,5,namesilo,,,18/09/2026 11:32
 870e2b28-8407-4f72-a9d4-c44782f9f190,fleer.plumbing,available,14.99,94.99,low,low,5,name.com,,,18/08/2026 17:47
 64bca6ec-9cff-4fad-9eda-c51b044d18ed,inhuman.plumbing,available,14.99,94.99,medium,low,7,name.com,,,12/08/2026 16:25
+70442e79-b1b4-466d-be49-799fe77bef7a,heterosexual.plumbing,available,76.98,89.98,high,low,12,namecheap,,,29/09/2026 08:29
 e70707ca-8332-4936-989f-837166fda42c,priests.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,18/09/2026 03:38
 3864e4d6-fa32-45d0-a5c2-65a958fc2c9c,wanda.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,28/09/2026 07:42
 cfef1d25-9b25-4445-aadc-cd9760a84666,springtime.plumbing,available,14.99,,high,low,11,name.com,,,
@@ -667,7 +738,7 @@ f2a80e77-6cdc-4bf9-a509-b268fed39f36,discipline.plumbing,available,72.99,72.99,h
 707bf2ef-13b2-426a-874a-89f3439cae31,xoxoxo.plumbing,available,14.99,,high,low,6,name.com,,,
 4f2b9e6f-1e7a-4a69-9c34-b2a4dfa60ef9,motors.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,21/09/2026 01:16
 6ebe7a50-49cc-4e68-8c03-edf08848c1d9,vivian.plumbing,available,76.98,89.98,high,low,6,namecheap,,,28/09/2026 03:58
-606d013c-ed6c-41ee-87c8-2de6d9e05a55,leave.plumbing,available,14.99,,high,low,5,name.com,,,
+606d013c-ed6c-41ee-87c8-2de6d9e05a55,leave.plumbing,available,56.2,56.2,high,low,5,cloudflare,,,29/09/2026 18:36
 b1a5328e-6ab0-4ab3-8f76-3e2ce319571c,droopy.plumbing,available,14.99,94.99,medium,low,6,name.com,,,14/08/2026 19:43
 4a14efc3-b113-4eac-9bdd-5ef4d999851a,sot.plumbing,available,14.99,94.99,medium,low,3,name.com,,,14/08/2026 20:22
 042ad995-8ccd-4683-9dcf-75de0698d2af,gluttonous.plumbing,available,14.99,94.99,medium,low,10,name.com,,,20/08/2026 15:32
@@ -685,19 +756,22 @@ cbe78219-fd04-4973-912c-a785148dc880,ghost.plumbing,available,72.99,72.99,high,m
 3ebc0a43-aaae-4f0d-ac7c-0ddc2194bb66,provided.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,16/09/2026 09:17
 7eb73aa7-c7b6-4113-84c3-73000adf34c6,bakery.plumbing,available,72.99,72.99,high,low,6,namesilo,,,28/09/2026 12:14
 e515345c-5cfd-45b5-808c-d3ff442e2df5,incarnate.plumbing,available,14.99,94.99,high,low,9,name.com,,,16/08/2026 09:36
+51e5ff03-2638-4344-b2b4-634393ae34ca,karma.plumbing,available,58.16,58.16,high,medium,5,spaceship,,,29/09/2026 07:24
 aa8b5dc7-6b2a-4220-8972-cc0bfa3d6403,beret.plumbing,available,72.99,72.99,high,low,5,namesilo,,,23/09/2026 09:15
 746e161c-f670-4e51-95ea-bd654b4d8fcd,twiggy.plumbing,available,76.98,89.98,medium,low,6,namecheap,,,11/09/2026 21:34
 c90760c1-ea25-4e34-8826-40db7aef35b2,anthropoid.plumbing,available,14.99,94.99,medium,low,10,name.com,,,
 8d147f60-6f20-43f6-9c6c-da1ae18191b1,feathery.plumbing,available,14.99,94.99,high,low,8,name.com,,,18/08/2026 00:18
 05ccf2b0-de22-4dc0-a2ab-a7a8255dd0c2,ito.plumbing,available,56.2,56.2,medium,low,3,cloudflare,,,28/09/2026 08:05
+a3dff831-03a5-441c-bc3c-cfba9cf5caa2,fonda.plumbing,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 06:57
 0512a185-dc5d-4c60-8d0d-39e343150c72,vivaldi.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,19/09/2026 15:40
 44fad05f-5fdc-4c96-a5de-9ca65715adb5,braces.plumbing,available,72.99,72.99,high,low,6,namesilo,,,24/09/2026 07:52
 b8eee2f4-cad2-4c1d-9820-3de6765782f5,penally.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,15/09/2026 19:29
 ae1565a6-b7ab-4e6a-86e7-bd34253d783f,danseuse.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,21/09/2026 22:50
 81aea5aa-8fe2-4c01-8ab8-8454a739ec36,pga.plumbing,available,58.16,58.16,high,low,3,spaceship,,,28/09/2026 07:12
+f1c514c3-6301-4e37-98d0-0a45752e737b,oldenburg.plumbing,available,56.2,56.2,medium,low,9,cloudflare,,,29/09/2026 06:22
 a313365a-feb8-46af-8ea3-c9cd5dfd6d95,adscript.plumbing,available,14.99,94.99,medium,low,8,name.com,,,
 0bec5898-aefd-4fca-a753-378240386802,questioner.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,20/09/2026 14:25
-100257c7-851d-417c-91f0-c5c803777596,censored.plumbing,available,14.99,94.99,medium,low,8,name.com,,,11/08/2026 23:47
+100257c7-851d-417c-91f0-c5c803777596,censored.plumbing,available,14.99,94.99,high,low,8,name.com,,,11/08/2026 23:47
 10d2dfca-3aa7-424e-895c-a5e55f99a76a,sceptical.plumbing,available,14.99,94.99,medium,low,9,name.com,,,14/08/2026 09:36
 12a98aa2-d539-459e-ab16-bf3252efc94f,unsaved.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,12/09/2026 17:57
 32efdd3e-e6ce-4aa5-af94-44481c223be1,loneliness.plumbing,available,76.98,89.98,high,low,10,namecheap,,,18/09/2026 13:13
@@ -707,13 +781,14 @@ c4f66ba1-9f6d-4333-89ae-9792bf584c57,reasons.plumbing,available,76.98,89.98,medi
 b155c8ed-e7b2-4d15-b6f1-479d8eb9f4f8,syndrome.plumbing,available,14.99,,medium,low,8,name.com,,,
 b95fe553-cc3b-4255-9365-aba36dad921a,kwh.plumbing,available,76.98,89.98,medium,low,3,namecheap,,,28/09/2026 07:34
 195358d7-07ad-429f-8829-3ffc14356f60,insignificant.plumbing,available,14.99,,medium,low,13,name.com,,,
+c4963c80-d0e3-4764-98d3-7f9d986dc76b,interpreter.plumbing,available,8.24,60.14,high,low,11,dynadot,,,29/09/2026 08:27
 fe49350d-d9f0-43a1-b599-106c3376b98b,avian.plumbing,available,14.99,94.99,high,low,5,name.com,,,07/08/2026 23:17
 b78337a5-f73a-48da-b54c-465d722ffbc7,incorrupt.plumbing,available,14.99,94.99,high,low,9,name.com,,,22/08/2026 02:01
 b5419760-b5a4-46ed-a8af-4d74fa191633,appro.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,19/09/2026 22:20
 61861555-d7b6-4b32-bbb6-75fc8e39c4f0,clxxv.plumbing,available,14.99,94.99,medium,low,5,name.com,,,
 452d526c-5d64-44d2-a7cd-a83073a442d1,honourable.plumbing,available,14.99,94.99,high,low,10,name.com,,,21/08/2026 13:34
 8f73ccfd-1320-416d-99ea-fee4904e4494,ameboid.plumbing,available,14.99,94.99,medium,low,7,name.com,,,
-5dd95071-567b-4eed-99ab-65da91d55062,convertible.plumbing,available,72.99,72.99,medium,low,11,namesilo,,,28/09/2026 15:45
+5dd95071-567b-4eed-99ab-65da91d55062,convertible.plumbing,available,72.99,72.99,high,low,11,namesilo,,,28/09/2026 15:45
 10d9d9b0-ab68-48da-9ef8-1c8558e26de3,acetyl.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,17/09/2026 00:19
 18d4430b-ac41-4693-b0e7-93b0c804cc9f,restriction.plumbing,available,14.99,,high,low,11,name.com,,,
 eb75ef7f-fecc-46e5-90d9-3aaff77df38f,jiffy.plumbing,available,14.99,94.99,high,low,5,name.com,,,22/08/2026 07:30
@@ -723,6 +798,7 @@ abb42178-5749-41b1-ae49-d757a0c6ffcb,susurrous.plumbing,available,72.99,72.99,me
 4e77a822-fffb-4b38-b4c6-0a089f8862d6,weaned.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,13/09/2026 08:53
 010ddd86-afa6-4bde-96d6-7b6401e303f7,reel.plumbing,available,72.99,72.99,high,low,4,namesilo,,,24/09/2026 06:24
 5af29bdd-046c-4045-9f7e-77781d2eb922,lynchpin.plumbing,available,72.99,72.99,high,low,8,namesilo,,,21/09/2026 15:18
+3ac755c7-c2f7-48eb-8ad7-ef2d6661e6a7,undermine.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,29/09/2026 06:16
 d87836b1-9e6c-466d-875a-078a76559a25,accipiter.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,16/09/2026 22:29
 70f87d68-71c3-4171-bbdb-5993cd194305,bar.plumbing,available,58.16,58.16,high,low,3,spaceship,,,29/09/2026 01:04
 47a87058-5967-49fc-b8ff-c4b5546747c8,breathing.plumbing,available,14.99,94.99,high,low,9,name.com,,,11/08/2026 03:18
@@ -732,19 +808,20 @@ c3d72de4-59b7-4009-8a7f-e3a7720e5c0b,heel.plumbing,available,56.2,56.2,medium,lo
 5b02d914-328f-4b41-aa6d-f757d4a9c36a,clyde.plumbing,available,72.99,72.99,high,low,5,namesilo,,,25/09/2026 04:17
 110b33b0-5bed-4289-ac2c-0de4fcb1a9f4,shabby.plumbing,available,14.99,94.99,medium,low,6,name.com,,,25/08/2026 06:58
 23910b2f-b5e9-4414-844b-c794d19f0f7b,ayin.plumbing,available,72.99,72.99,high,low,4,namesilo,,,21/09/2026 10:38
-4809364f-aca8-4fa7-8f50-697e446d9da2,cogent.plumbing,available,14.99,94.99,medium,low,6,name.com,,,12/08/2026 15:33
+4809364f-aca8-4fa7-8f50-697e446d9da2,cogent.plumbing,available,14.99,94.99,high,low,6,name.com,,,12/08/2026 15:33
 31c529a8-ae74-437c-af6c-236205573e0f,chichi.plumbing,available,14.99,94.99,high,low,6,name.com,,,12/08/2026 04:46
 f40ad52d-eb5c-4775-b52e-d2e8bdc0d10f,likeness.plumbing,available,72.99,72.99,high,low,8,namesilo,,,18/09/2026 07:48
 2565af28-9414-424a-aafe-7ddd8cda0e38,berlin.plumbing,available,58.16,58.16,high,medium,6,spaceship,,,29/09/2026 02:06
 662354d8-cf2f-4636-b07d-949a417e0dab,flowerbed.plumbing,available,72.99,72.99,high,low,9,namesilo,,,22/09/2026 22:58
 e67889f6-c220-4728-96e0-192f64a4152f,omissive.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,04/09/2026 02:28
-eddf1dfc-2d4f-4216-88fe-56bbead55e9e,html.plumbing,available,14.99,,high,low,4,name.com,,,
+eddf1dfc-2d4f-4216-88fe-56bbead55e9e,html.plumbing,available,58.16,58.16,high,low,4,spaceship,,,29/09/2026 23:08
 4ce47faf-0036-4eec-895d-35c3d72712a3,horowitz.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,28/09/2026 10:06
 19bc8a84-f328-4eeb-9fc6-3673e35d5199,prediction.plumbing,available,58.16,58.16,high,low,10,spaceship,,,29/09/2026 00:58
-9e19262b-e119-42c0-bc32-ccfbe6b2903c,sotho.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,10/09/2026 14:39
+9e19262b-e119-42c0-bc32-ccfbe6b2903c,sotho.plumbing,available,72.99,72.99,high,low,5,namesilo,,,10/09/2026 14:39
 5306a730-3c2d-4257-9d5a-ccf18f82d50f,bergman.plumbing,available,72.99,72.99,high,low,7,namesilo,,,23/09/2026 09:21
 09f563a8-3e88-4843-92a2-a5283947679a,alignment.plumbing,available,76.98,89.98,high,low,9,namecheap,,,18/09/2026 07:47
 55143b2f-afee-423f-b194-5db7df3e4574,cxx.plumbing,available,14.99,94.99,high,low,3,name.com,,,
+92cb1765-ba89-43c8-b4e0-78b0a9ebdae2,saipan.plumbing,available,8.24,58.19,high,low,6,porkbun,,,29/09/2026 08:00
 b63a0933-9324-4a0e-91c1-551da47ca604,devices.plumbing,available,56.2,56.2,high,low,7,cloudflare,,,28/09/2026 03:14
 99a6c195-13e3-4224-a3b3-526ae10aff61,honeymoons.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,20/09/2026 01:32
 1146a333-b574-4349-941f-aa4e84424001,universally.plumbing,available,14.99,,high,low,11,name.com,,,
@@ -760,7 +837,7 @@ dc91cb92-4d59-4709-82d8-893f1640a95f,absolver.plumbing,available,76.98,89.98,med
 628052fe-651b-4f08-bcca-b1f7451656c2,precise.plumbing,available,76.98,89.98,high,low,7,namecheap,,,27/09/2026 04:53
 cf6956e6-3caf-4f08-a97c-dedb4eaab40c,slow.plumbing,available,72.99,72.99,high,low,4,namesilo,,,23/09/2026 00:28
 9675c657-321d-4315-9500-2fabc6454042,baddie.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,21/09/2026 16:59
-f61b3c43-0d1a-4e7d-9cb5-0cd1a7daff41,excellency.plumbing,available,58.16,58.16,medium,low,10,spaceship,,,29/09/2026 00:51
+f61b3c43-0d1a-4e7d-9cb5-0cd1a7daff41,excellency.plumbing,available,58.16,58.16,high,low,10,spaceship,,,29/09/2026 00:51
 2f226b06-4016-4248-9c8f-238eb151da8b,bricole.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,20/09/2026 00:36
 0e3f25bc-7eab-48a2-8ad9-5e909dd7d025,wanting.plumbing,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 10:19
 bcb50bc3-9689-4b04-9e36-b8035ace42a5,allograft.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,18/09/2026 11:54
@@ -772,29 +849,35 @@ eff287f3-7c35-44e8-bd8f-4f2614b94e43,soppy.plumbing,available,14.99,94.99,medium
 524f5160-f5a2-4574-adb8-56e1bd4e7dc9,asheville.plumbing,premium,260,260,high,low,9,namecheap,,,20/09/2026 13:49
 d0d867a1-3a28-4b31-99e8-7f9a11d662f6,edison.plumbing,available,72.99,72.99,high,low,6,namesilo,,,29/09/2026 00:45
 1b45ba52-5845-4f2a-82c8-e5606ba35456,twist.plumbing,available,58.16,58.16,high,low,5,spaceship,,,28/09/2026 10:40
-3947737c-b8b8-417d-a3a3-57b45f239e09,chips.plumbing,available,14.99,,high,low,5,name.com,,,
+3947737c-b8b8-417d-a3a3-57b45f239e09,chips.plumbing,available,58.16,58.16,high,low,5,spaceship,,,29/09/2026 08:44
+11973ce0-76b2-4384-b3ed-36d8acd72fc9,assumptions.plumbing,available,8.24,60.14,medium,low,11,dynadot,,,30/09/2026 00:31
+1b2332e0-935a-4fc7-b6b6-c0ddb3bb422c,persist.plumbing,available,58.16,58.16,high,low,7,spaceship,,,30/09/2026 03:13
 f8e3fcfd-1faa-40d6-9254-941dd94d8c16,gimcrack.plumbing,available,14.99,94.99,medium,low,8,name.com,,,18/08/2026 06:39
+28c67e96-393e-4df0-a70f-c53b54b5ee65,prosecute.plumbing,available,72.99,72.99,high,low,9,namesilo,,,29/09/2026 20:42
 f9aa7a51-1aa7-4cd6-bb62-969b43bc56a1,bracer.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,20/09/2026 06:51
 3e59c07d-8425-401d-b564-886780abea99,neo.plumbing,available,72.99,72.99,high,medium,3,namesilo,,,03/09/2026 15:19
 3753e2f6-8355-4f2a-8922-7eeceea729db,abelia.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,16/09/2026 15:02
 2c3e0592-e4df-436e-8898-01a4ff13155d,crucially.plumbing,available,14.99,94.99,medium,low,9,name.com,,,14/09/2026 09:50
 a385a153-1ab0-47d2-988a-ac03b035f2a1,hooved.plumbing,available,14.99,94.99,medium,low,6,name.com,,,21/08/2026 13:42
+9c63a6ab-3bbd-40d9-8fc2-bf3a065b3d40,tasted.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,29/09/2026 11:03
 b3bbbf08-a431-4451-bdee-8908dfe2b1f2,barye.plumbing,available,76.98,89.98,medium,low,5,namecheap,,,22/09/2026 03:48
 4c220287-61b7-465e-9e92-859f7f7bb723,gari.plumbing,available,72.99,72.99,high,low,4,namesilo,,,23/09/2026 22:55
+76366b14-67d1-41ce-9117-9dc784d99e59,nadine.plumbing,available,56.2,56.2,medium,low,6,cloudflare,,,29/09/2026 22:08
 f02fae48-d219-4be2-a122-c2564367a195,expansive.plumbing,available,14.99,94.99,high,low,9,name.com,,,17/08/2026 18:00
 970dee83-9f71-40ab-a24c-e5c2c6aa42f1,conflict.plumbing,available,72.99,72.99,high,low,8,namesilo,,,22/09/2026 14:40
 59c22c60-1997-4f1f-b3b9-9fa70739141f,arouet.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,20/09/2026 08:30
 a875ec4f-e979-4f26-9b5b-be839e1b3a24,cracked.plumbing,available,76.98,89.98,high,low,7,namecheap,,,22/09/2026 01:30
 6634b33e-af03-4f60-bc5b-260a77d0277a,receiver.plumbing,available,56.2,56.2,high,low,8,cloudflare,,,28/09/2026 10:40
 944a0d51-36a1-4791-b09e-098e302e9f36,antigen.plumbing,available,72.99,72.99,high,low,7,namesilo,,,19/09/2026 14:24
-5ab8b7eb-f218-424c-b165-f0abbf99b541,opinions.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,17/09/2026 07:35
+5ab8b7eb-f218-424c-b165-f0abbf99b541,opinions.plumbing,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 07:35
 5d1c464d-d6cc-4fde-a11f-8a318069d9f7,gogh.plumbing,available,76.98,89.98,medium,low,4,namecheap,,,28/09/2026 19:21
 75626b45-7dce-424a-ae32-f741c6c6aab0,throws.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,19/09/2026 00:51
 e8f0500a-c1f5-4b54-9171-e6811fb5fc5d,mirthful.plumbing,available,14.99,94.99,high,low,8,name.com,,,12/08/2026 19:00
 07119423-6014-428e-9c35-643c7a60c698,warwick.plumbing,premium,78.54,78.54,high,low,7,namesilo,,,25/09/2026 05:09
 62d818e0-83ec-42bf-99a0-e853f1e32645,uncommitted.plumbing,available,14.99,,medium,low,11,name.com,,,
+f59237c6-97f2-4a94-92ab-9d62e3420cc7,pao.plumbing,available,72.99,72.99,high,low,3,namesilo,,,29/09/2026 09:17
 91b63266-36c0-414b-b869-9cf7e0c2ae4d,ishmael.plumbing,available,76.98,89.98,high,low,7,namecheap,,,04/09/2026 19:10
-e71e7606-7723-4c6e-9a3c-4cdb25f3d655,deadline.plumbing,available,14.99,,high,low,8,name.com,,,
+e71e7606-7723-4c6e-9a3c-4cdb25f3d655,deadline.plumbing,available,56.2,56.2,high,low,8,cloudflare,,,29/09/2026 13:23
 f5a2b314-aa3b-4d47-aa18-a5ad222a389f,epicene.plumbing,available,14.99,94.99,medium,low,7,name.com,,,12/08/2026 08:38
 b58d3060-7dbe-4e54-9959-6729400f6717,faulty.plumbing,available,14.99,94.99,medium,low,6,name.com,,,13/08/2026 23:08
 62c8c7d6-ed51-43aa-9fe9-6d8b28365eba,limply.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,15/09/2026 12:20
@@ -807,7 +890,7 @@ b32ff0e0-76c8-4379-a7e4-d91e9411db39,crummy.plumbing,available,14.99,94.99,mediu
 f85787dd-91ef-4dd6-9c2d-60274f60be14,peggy.plumbing,available,72.99,72.99,high,low,5,namesilo,,,25/09/2026 13:02
 f2427b5b-7c9d-4a71-ba77-047be665ed23,comet.plumbing,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 00:28
 f10026d7-c414-4fc4-877b-534d8a5cb6c2,ethically.plumbing,available,72.99,72.99,high,low,9,namesilo,,,14/09/2026 16:20
-e6fa795c-1cf7-4e19-aa8f-bc337d28751f,kleenex.plumbing,available,14.99,,high,low,7,name.com,,,
+e6fa795c-1cf7-4e19-aa8f-bc337d28751f,kleenex.plumbing,available,58.16,58.16,high,low,7,spaceship,,,30/09/2026 01:39
 83b93424-e15b-4f33-b395-1f3f39b91bf3,servo.plumbing,available,72.99,72.99,high,low,5,namesilo,,,10/09/2026 04:57
 05478a73-572d-43ae-9459-5fc75a5d94bf,cream.plumbing,available,76.98,89.98,high,low,5,namecheap,,,28/09/2026 04:30
 9537c863-2bf1-4765-b4fd-6f5e7c037290,discretion.plumbing,available,72.99,72.99,high,low,10,namesilo,,,24/09/2026 15:03
@@ -817,15 +900,16 @@ cc136236-2135-472a-b613-23a5eeb16867,cyclical.plumbing,available,14.99,94.99,hig
 7429d93c-5370-4b3a-a9c7-8cbbe8b641d7,sixty.plumbing,available,14.99,94.99,high,low,5,name.com,,,
 62b7da1f-148d-499d-9b10-9f870447a88f,unattended.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,12/09/2026 01:17
 befc92c2-4cfb-4621-a6bd-20dc284513b5,depressing.plumbing,available,14.99,94.99,medium,low,10,name.com,,,12/08/2026 03:50
+a9718c82-8ab9-43ab-b487-d1df9e40ae23,khalil.plumbing,available,8.24,60.14,high,low,6,dynadot,,,29/09/2026 22:35
 87be8b04-7f8c-45c6-9178-f90d23b2e96c,hostel.plumbing,available,72.99,72.99,high,low,6,namesilo,,,21/09/2026 02:25
 f48dd6e1-d690-42f5-a4bd-974cf133603c,specter.plumbing,available,72.99,72.99,high,low,7,namesilo,,,08/09/2026 18:41
 38c7a1ef-b534-40c2-addb-a09bc6c9e843,ages.plumbing,available,14.99,,medium,low,4,name.com,,,
 004ebc3c-00b9-4e49-baea-95b6468bdfb8,laboratory.plumbing,available,8.24,60.14,high,low,10,dynadot,,,28/09/2026 06:20
-225c7aef-01d1-4390-aadc-c3e45ce81b76,equipment.plumbing,premium,109.53,218.86,high,low,9,porkbun,,,28/09/2026 02:33
-dd9a0f86-281e-4adf-9179-07275aa02d9a,canoe.plumbing,available,14.99,,high,low,5,name.com,,,
+225c7aef-01d1-4390-aadc-c3e45ce81b76,equipment.plumbing,premium,109.53,218.86,high,low,9,porkbun,,,29/09/2026 19:32
+dd9a0f86-281e-4adf-9179-07275aa02d9a,canoe.plumbing,available,8.24,58.19,high,low,5,porkbun,,,29/09/2026 06:41
 ed8f2836-63f6-4f4f-8e79-0415ebf0650b,gained.plumbing,available,76.98,89.98,low,low,6,namecheap,,,28/09/2026 08:35
 c0668e0f-7475-42db-9e42-56b7a1cf5029,amoy.plumbing,available,72.99,72.99,medium,low,4,namesilo,,,18/09/2026 23:05
-c5d51107-4191-4c02-8d1a-7db66c257af3,canal.plumbing,available,14.99,,high,low,5,name.com,,,
+c5d51107-4191-4c02-8d1a-7db66c257af3,canal.plumbing,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 06:24
 12862439-329c-438b-b6f9-bfc457a306c1,smallish.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,10/09/2026 11:46
 5f224af8-0ac1-4747-9f5c-df6c4e6eccb1,plan.plumbing,available,72.99,72.99,high,medium,4,namesilo,,,20/09/2026 02:15
 10d05b2a-f192-4d94-a4d0-71058fd3c44e,aigret.plumbing,available,76.98,89.98,medium,low,6,namecheap,,,17/09/2026 20:56
@@ -835,14 +919,15 @@ e5f02f0a-b851-4433-bf98-30e548c34df1,templeton.plumbing,available,72.99,72.99,me
 6f411f7a-1851-4a42-87c2-f90dad3bf61d,freetown.plumbing,available,72.99,72.99,high,low,8,namesilo,,,24/09/2026 12:22
 0a741aef-4fd1-44ce-b0bb-8acb945e54c7,recruited.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,18/09/2026 00:53
 49a11bc5-1702-4b43-8609-b3474a8d0270,scrutinize.plumbing,available,76.98,89.98,high,low,10,namecheap,,,21/09/2026 03:06
-36dafdb6-c555-4f45-88a3-bf5e75856d40,effectively.plumbing,available,14.99,,medium,low,11,name.com,,,
+36dafdb6-c555-4f45-88a3-bf5e75856d40,effectively.plumbing,available,14.99,,high,low,11,name.com,,,
+b6435f60-084f-41d9-ad0a-91e9fdc947e3,frames.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,29/09/2026 11:27
 daddde31-eda2-45aa-bb9f-041db404cf75,afar.plumbing,available,72.99,72.99,medium,low,4,namesilo,,,13/09/2026 17:46
 d384985b-b969-48fb-938c-8bbb481152ac,seventh.plumbing,available,14.99,94.99,high,low,7,name.com,,,
 a6314af1-9617-4ebe-907a-1374072cc1b4,tellurian.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,11/09/2026 10:37
 ffca89b5-5a22-425d-bc3a-36e6ffe7aefe,thoughts.plumbing,available,72.99,72.99,high,low,8,namesilo,,,16/09/2026 21:58
 2d595c37-e02e-41d4-b5e2-3afa09aeb34f,arius.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,20/09/2026 06:03
 9a3711e7-3275-45f6-9498-3786b87bc37a,isoclinic.plumbing,available,14.99,94.99,medium,low,9,name.com,,,22/08/2026 11:02
-4a652763-c005-46d7-8fa4-4fc41c5bad1d,doorbell.plumbing,available,72.99,72.99,high,low,8,namesilo,,,24/09/2026 11:23
+4a652763-c005-46d7-8fa4-4fc41c5bad1d,doorbell.plumbing,available,56.2,56.2,medium,low,8,cloudflare,,,29/09/2026 22:59
 02834f32-80c0-4ffe-bd20-1b992fe77196,mothafucker.plumbing,available,14.99,,medium,low,11,name.com,,,
 47368949-32b1-4f2a-b919-a093f20aaf9b,bellamy.plumbing,available,58.16,58.16,medium,low,7,spaceship,,,28/09/2026 12:15
 d3b44e4d-e71d-4d2b-aa9b-455269076c69,soursop.plumbing,available,76.98,89.98,high,low,7,namecheap,,,19/09/2026 10:36
@@ -851,29 +936,33 @@ d3b44e4d-e71d-4d2b-aa9b-455269076c69,soursop.plumbing,available,76.98,89.98,high
 b8566a53-ff21-4ccd-900d-16de7fd74546,threadfish.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,18/09/2026 04:49
 9cb7aa02-77d1-4b0f-9b13-b11e560b8d33,amalgamate.plumbing,available,72.99,72.99,high,low,10,namesilo,,,22/09/2026 03:01
 95730825-005f-4c9a-81ec-ae7d742254c7,backs.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,18/09/2026 06:41
+3029a5f3-5e02-44ae-bcfa-d2deca7950c7,limbo.plumbing,available,58.16,58.16,high,low,5,spaceship,,,29/09/2026 19:33
 b47c6a94-bb25-4e19-8bf2-0cab51146faa,erection.plumbing,available,76.98,89.98,high,low,8,namecheap,,,29/09/2026 00:49
 368f99b5-3bd4-406e-bfbd-4f3a36262c3c,mercury.plumbing,available,76.98,89.98,high,medium,7,namecheap,,,09/09/2026 08:45
 92653dec-98cc-429f-aa53-d27e02b71bb0,globe.plumbing,available,58.16,58.16,high,low,5,spaceship,,,28/09/2026 01:49
-04efc4cf-0859-4792-b34c-1b52fc9e9d8b,curricular.plumbing,available,14.99,94.99,medium,low,10,name.com,,,13/08/2026 11:29
+04efc4cf-0859-4792-b34c-1b52fc9e9d8b,curricular.plumbing,available,14.99,94.99,high,low,10,name.com,,,13/08/2026 11:29
 9d50e2f1-19c7-4f1c-a306-3e3e7a82d605,captivated.plumbing,available,14.99,94.99,medium,low,10,name.com,,,09/08/2026 09:52
-2ca968cf-eec4-46c8-ade5-296fde2ce473,ira.plumbing,available,58.16,58.16,medium,low,3,spaceship,,,28/09/2026 14:31
+2ca968cf-eec4-46c8-ade5-296fde2ce473,ira.plumbing,available,58.16,58.16,high,low,3,spaceship,,,28/09/2026 14:31
 0c2e70a7-37a6-485f-9341-bf2edcbcefc9,winkle.plumbing,available,14.99,94.99,medium,low,6,name.com,,,18/08/2026 06:48
 e5a04f0b-e42a-40c0-a5e8-2fc8459af760,thrown.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,28/09/2026 09:15
 e8d7d2ed-ca4e-41eb-8e74-f83b746f765d,fitter.plumbing,available,14.99,94.99,high,low,6,name.com,,,18/08/2026 05:48
+5fa716f9-5347-494c-ad06-1e86b1814096,som.plumbing,available,72.99,72.99,high,low,3,namesilo,,,29/09/2026 08:04
 05371a86-7e70-4ee5-a1ed-c79e2bf955f6,pattern.plumbing,available,14.99,94.99,high,low,7,name.com,,,25/08/2026 02:49
 5bea5ba2-4dee-45ed-a03b-5af222f4efb7,confirmed.plumbing,available,76.98,89.98,high,low,9,namecheap,,,23/09/2026 19:53
-19100375-3544-48e1-9b19-2f84ae47e1cd,targeting.plumbing,available,58.16,58.16,medium,low,9,spaceship,,,29/09/2026 03:22
+19100375-3544-48e1-9b19-2f84ae47e1cd,targeting.plumbing,available,58.16,58.16,high,low,9,spaceship,,,29/09/2026 03:22
 1f6b4b30-6339-4412-8d9a-95679aeaa9e4,letup.plumbing,available,14.99,,medium,low,6,name.com,,,
 31690db3-4b15-426c-9643-5d619a660777,aum.plumbing,available,72.99,72.99,high,low,3,namesilo,,,21/09/2026 04:10
 b29b7689-2114-434d-b33b-e34f6ae9df4c,jonathan.plumbing,available,72.99,72.99,high,low,8,namesilo,,,25/09/2026 08:03
-cbf0decc-e016-4d5e-800d-0bebcd9e2525,corruption.plumbing,available,14.99,,medium,low,10,name.com,,,
+cbf0decc-e016-4d5e-800d-0bebcd9e2525,corruption.plumbing,available,8.24,58.19,high,low,10,porkbun,,,29/09/2026 11:41
 bd43a66c-a63e-45e4-8c71-890a1e359070,scars.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,20/09/2026 11:02
 80f4f489-b813-4e78-88d0-75c14054eed9,launched.plumbing,available,72.99,72.99,high,low,8,namesilo,,,18/09/2026 13:03
+708c8d11-2a61-44a1-a439-7ad723f53d84,tottenham.plumbing,available,56.2,56.2,medium,low,9,cloudflare,,,29/09/2026 22:19
 e4945a06-be20-451b-95ca-81ac43079340,divorced.plumbing,available,14.99,94.99,medium,low,8,name.com,,,14/08/2026 14:01
 523b5695-01a6-454d-91c3-f78c2a4a328f,windflower.plumbing,available,72.99,72.99,high,low,10,namesilo,,,19/09/2026 05:19
 cf49bcf8-9bc8-4b79-9dd4-92c0eaa4796c,viscid.plumbing,available,14.99,94.99,medium,low,6,name.com,,,20/08/2026 15:23
 70cb6002-c7e4-4e80-a29e-7a25f87c414e,decade.plumbing,available,72.99,72.99,high,low,6,namesilo,,,21/09/2026 10:56
 083ee6da-2e4f-4ebd-86e2-1b90de348757,uxorious.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,13/09/2026 00:33
+284094a8-813c-428a-8b71-821531a66ba4,cuyahoga.plumbing,available,76.98,89.98,medium,low,8,namecheap,,,29/09/2026 10:08
 da9a2490-17f9-469c-8099-23b9318c3130,anastrophe.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,19/09/2026 03:23
 988ad224-d559-4651-8238-69d754d2dce7,nne.plumbing,available,72.99,72.99,high,low,3,namesilo,,,15/09/2026 16:50
 78dc61fc-d428-45eb-977c-5a6069c23cfd,unhindered.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,12/09/2026 11:55
@@ -881,7 +970,8 @@ da9a2490-17f9-469c-8099-23b9318c3130,anastrophe.plumbing,available,72.99,72.99,m
 50177bf1-a7ed-48de-9e63-59b740f914c0,unwonted.plumbing,available,72.99,72.99,low,low,8,namesilo,,,12/09/2026 22:48
 a1707aae-b61d-43d7-9d6f-214df47578ea,medicine.plumbing,available,56.2,56.2,high,low,8,cloudflare,,,28/09/2026 15:30
 aa26c1fc-5797-4843-97c8-a7137b7fdb40,programmes.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,20/09/2026 10:20
-df307fb5-d416-4229-a7c5-f1bb3109e291,woolen.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,13/09/2026 13:13
+70728330-0664-4c7e-95c7-67a3cb4e9cdc,sigurd.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,30/09/2026 02:51
+df307fb5-d416-4229-a7c5-f1bb3109e291,woolen.plumbing,available,72.99,72.99,high,low,6,namesilo,,,13/09/2026 13:13
 34669d5e-58eb-4a3a-859d-a4ed4af456be,reginald.plumbing,available,72.99,72.99,high,low,8,namesilo,,,25/09/2026 15:10
 88882337-fad9-4aa6-9f4e-6b82d7fa4a07,participle.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,08/09/2026 02:05
 db79783d-64db-40e9-9acb-d9503ec97bc7,planate.plumbing,available,14.99,94.99,medium,low,7,name.com,,,18/08/2026 06:53
@@ -901,7 +991,7 @@ d88a39f4-447a-4e20-9cda-9c9192771740,failing.plumbing,available,14.99,94.99,medi
 c82a8966-8b1e-467b-ada2-412929e05415,onstage.plumbing,available,76.98,89.98,high,low,8,namecheap,,,16/09/2026 19:36
 d023bd24-cdca-4058-8114-f3899cd0a70d,onwards.plumbing,available,76.98,89.98,high,low,7,namecheap,,,14/09/2026 19:51
 57c8c18f-8e1a-4720-a6d1-7f6a4da743f9,leaves.plumbing,available,72.99,72.99,medium,low,6,namesilo,,,08/09/2026 09:50
-62a1fc82-e6dd-41f3-a335-407ca778b284,buddy.plumbing,available,14.99,,high,low,5,name.com,,,
+62a1fc82-e6dd-41f3-a335-407ca778b284,buddy.plumbing,available,72.99,72.99,high,medium,5,namesilo,,,29/09/2026 05:01
 ae82092e-9140-4402-b052-0af2ea698dbc,airliner.plumbing,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 23:14
 8e70b3e4-aa72-4e2e-aa45-924f2a63a31a,stormproof.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,10/09/2026 21:24
 3a4dfdaf-7638-4c0a-833c-1dccad574158,ces.plumbing,available,8.24,58.19,high,low,3,porkbun,,,29/09/2026 03:52
@@ -909,93 +999,3 @@ ae82092e-9140-4402-b052-0af2ea698dbc,airliner.plumbing,available,72.99,72.99,hig
 7a987ce6-2207-44fb-864e-e36dd57bc431,amiable.plumbing,available,76.98,89.98,high,low,7,namecheap,,,21/09/2026 21:32
 ad5142d9-eb12-4784-837d-fe573ccd4e24,nonslip.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,03/09/2026 20:38
 d8e4af0f-fb32-4ec1-a1ae-25296a1d0773,unrevealed.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,12/09/2026 08:09
-f93bc4a5-a774-4ab2-8162-dd1512caf388,tate.plumbing,available,72.99,72.99,high,low,4,namesilo,,,18/09/2026 10:50
-ab4dd3e3-79a5-4ea7-9b7d-049946f36a78,blacksnake.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,24/09/2026 01:28
-6c971910-884f-46c8-ba06-90fa4abfa520,unlabeled.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,12/09/2026 14:28
-da9b9bfd-b6ac-41b3-9824-4f262be6c872,tegular.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,11/09/2026 10:16
-88d0c37f-baa6-41fa-83f4-0021bce8cca0,softness.plumbing,available,72.99,72.99,high,low,8,namesilo,,,21/09/2026 23:37
-51f1bf47-612b-4bd7-8c7c-c3cbc4799c8f,boot.plumbing,available,58.16,58.16,high,low,4,spaceship,,,29/09/2026 03:39
-ca79795f-d402-429b-a7e5-a1c94941ef52,participants.plumbing,available,72.99,72.99,medium,low,12,namesilo,,,18/09/2026 04:57
-3e16c14b-9316-4bc8-9958-508bf9430b9e,mismatched.plumbing,available,14.99,94.99,medium,low,10,name.com,,,25/08/2026 01:36
-796b1865-68a2-4c11-9843-a2ad03ef2433,bering.plumbing,available,76.98,89.98,high,low,6,namecheap,,,23/09/2026 04:03
-c621d16c-2634-49ff-8c65-da2ae74ac042,extremity.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,19/09/2026 20:32
-cda80416-9bfe-437a-9435-72fbc6299aeb,blues.plumbing,available,56.2,56.2,high,low,5,cloudflare,,,29/09/2026 03:01
-a7b3dc91-3a29-4b76-a1e8-3f7f8f120b3d,utilized.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,13/09/2026 00:05
-4d9f2c5a-1255-4b0f-b8e3-a4c6cff933e4,sort.plumbing,available,72.99,72.99,high,low,4,namesilo,,,25/09/2026 12:43
-5d08e316-9c1a-4908-9106-e9cc1769b4e8,astound.plumbing,available,14.99,,high,low,7,name.com,,,
-853f67f4-e53e-45ec-9817-bb144d5b7744,prototypal.plumbing,available,14.99,94.99,medium,low,10,name.com,,,06/08/2026 15:37
-80c28107-4b11-40c9-90b5-478d55d67be6,spots.plumbing,available,72.99,72.99,high,low,5,namesilo,,,27/09/2026 04:00
-25af5be0-76f8-459e-ba93-e302700e2de8,numberless.plumbing,available,14.99,94.99,high,low,10,name.com,,,13/08/2026 03:42
-34a15a39-743c-4eca-8af1-f7f9f45b7771,hamburger.plumbing,available,72.99,72.99,high,low,9,namesilo,,,29/09/2026 01:50
-82bd3d40-1041-496e-874c-ccdf05732829,fights.plumbing,available,76.98,89.98,medium,low,6,namecheap,,,20/09/2026 00:14
-89cef52e-6e17-4000-b036-d8620532fbf2,compromise.plumbing,available,72.99,72.99,high,low,10,namesilo,,,24/09/2026 16:54
-207a73b8-ab94-48e8-b3f6-1698799c50ad,aware.plumbing,available,76.98,89.98,high,low,5,namecheap,,,25/09/2026 20:16
-a52b6029-5b74-43e8-8355-abe7d9188041,assembler.plumbing,available,72.99,72.99,high,low,9,namesilo,,,20/09/2026 16:01
-8ee371da-fc8d-40f2-9131-0efde6c1f931,flavorful.plumbing,available,14.99,94.99,high,low,9,name.com,,,18/08/2026 07:04
-9677f4a7-0a61-4e49-9db7-ffa64d230d10,spectacular.plumbing,available,58.16,58.16,high,low,11,spaceship,,,27/09/2026 17:02
-4354cc33-749c-4a30-8198-f2415f6d31b4,flu.plumbing,available,14.99,,high,low,3,name.com,,,
-7548ffa6-0dd8-43a0-baf0-74d7746c5770,husbands.plumbing,available,58.16,58.16,medium,low,8,spaceship,,,27/09/2026 18:17
-a9e80713-ac2b-4836-88c0-5ed5587233ae,magdalena.plumbing,available,58.16,58.16,medium,low,9,spaceship,,,28/09/2026 02:17
-b15146ac-9d72-4220-bd4f-29aed64900bd,melrose.plumbing,available,56.2,56.2,medium,low,7,cloudflare,,,28/09/2026 08:55
-08bfe71d-b03d-400e-af54-95a9ec9fed22,fairview.plumbing,available,8.24,58.19,medium,low,8,porkbun,,,28/09/2026 16:52
-6c9b9fe3-768c-4da3-83a5-af2b1b5f7180,journalism.plumbing,available,14.99,,high,low,10,name.com,,,
-57058a19-44c5-4ae7-81ae-acabd0fc2472,obsession.plumbing,available,56.2,56.2,high,low,9,cloudflare,,,28/09/2026 02:30
-aa65c21d-f7da-45f0-af1b-4b37902e9dfd,stylishly.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,16/09/2026 07:28
-147cd598-2c1f-49e3-a03b-c5d193ca712d,threat.plumbing,available,14.99,,high,low,6,name.com,,,
-816b5c89-72e0-43ca-9271-550d5451ae01,crossly.plumbing,available,72.99,72.99,low,low,7,namesilo,,,14/09/2026 09:42
-2831c65a-b238-46f0-a10d-f93cc496fe19,motorcycle.plumbing,available,72.99,72.99,high,low,10,namesilo,,,23/09/2026 15:33
-d59b12ef-4fb1-44f6-ac86-1203fb934607,potentiality.plumbing,available,14.99,,high,low,12,name.com,,,
-e347e8e5-a5ea-4ee4-b2c4-34d4a60ded1f,speakers.plumbing,available,76.98,89.98,high,low,8,namecheap,,,18/09/2026 11:01
-593355b3-d74e-4a43-9ee0-dafa9c7c86be,pronghorn.plumbing,available,76.98,89.98,medium,low,9,namecheap,,,18/09/2026 19:07
-f0d5f728-5e63-4e54-b8c4-e9018dd9f386,sharing.plumbing,available,58.16,58.16,high,low,7,spaceship,,,27/09/2026 20:29
-b8051732-de2c-488d-990b-a0aa89180fae,evaluate.plumbing,available,14.99,,high,low,8,name.com,,,
-00f08f12-bcc1-4c5d-b7d5-19466fadb1d1,mcmuffin.plumbing,available,14.99,,high,low,8,name.com,,,
-67b6988d-c76d-4df1-8e2e-68eb34b5faf1,pectoralis.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,08/09/2026 12:06
-135bb766-4c97-4fe4-a43c-26b539b29b1d,propellent.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,09/09/2026 03:28
-303bde04-8703-4b7c-b717-bb5dbe1ede87,thebes.plumbing,available,58.16,58.16,medium,low,6,spaceship,,,28/09/2026 11:00
-c93ccb34-79ae-4f47-adf7-9f1269aff871,adagio.plumbing,available,14.99,94.99,high,low,6,name.com,,,
-71c9bb17-1f00-4abc-9854-f6e855152e47,presentation.plumbing,available,14.99,,high,low,12,name.com,,,
-864605d3-6e02-4a4f-b20e-95cfbc2e8c64,matthew.plumbing,available,76.98,89.98,high,low,7,namecheap,,,25/09/2026 06:38
-15f1b5f6-74f4-4d02-8501-6664f4a1859c,these.plumbing,available,14.99,,medium,low,5,name.com,,,
-abb91c19-103d-486e-bf85-7b436186830d,hotel.plumbing,available,14.99,,high,medium,5,name.com,,,
-4eec73cf-b858-4e6b-994e-a461d2d3b2c6,nestorian.plumbing,available,72.99,72.99,medium,low,9,namesilo,,,03/09/2026 15:50
-ac83bd4d-f34e-43ff-9a6a-89c3bd70ccdd,keys.plumbing,available,14.99,,high,medium,4,name.com,,,
-5c4cf129-dd4b-4b86-bec8-723301a88427,nutrient.plumbing,available,72.99,72.99,high,low,8,namesilo,,,08/09/2026 11:42
-7729aeec-ea22-4726-9610-71a56d0d7fcc,wedding.plumbing,available,14.99,,high,low,7,name.com,,,
-9b136055-f27b-4544-950d-010c6de24a8d,why.plumbing,available,72.99,72.99,high,low,3,namesilo,,,25/09/2026 10:59
-7a955dad-c86f-4d79-9fa1-065795c6a987,uncrowned.plumbing,available,14.99,94.99,medium,low,9,name.com,,,13/08/2026 08:36
-e0cb3766-b8ba-4613-8ba5-49f0aac6a74b,hurt.plumbing,available,76.98,89.98,high,low,4,namecheap,,,25/09/2026 06:49
-52a3afc2-8006-45ce-9e6b-7eb1e4676ff7,loaned.plumbing,available,76.98,89.98,medium,low,6,namecheap,,,17/09/2026 16:26
-5d3fa47c-30b0-4b92-844d-1340fed294fb,modulated.plumbing,available,14.99,94.99,medium,low,9,name.com,,,25/08/2026 03:19
-6e0dfb42-0cfd-47fb-8c75-a32a2b579c0a,cabin.plumbing,available,72.99,72.99,high,low,5,namesilo,,,24/09/2026 11:32
-f962e3e2-a53f-4995-8825-d73d43a85951,supposedly.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,28/09/2026 16:34
-d69d61a3-1628-471a-9605-268ae4a5bba7,fallacious.plumbing,available,14.99,94.99,medium,low,10,name.com,,,13/08/2026 21:08
-4f5cec01-891d-499d-b43f-152b64eba20f,acid.plumbing,available,14.99,94.99,high,low,4,name.com,,,
-9d61e6e5-c2a5-4d1b-9d40-3fd2f79ccb62,prior.plumbing,available,72.99,72.99,high,low,5,namesilo,,,27/09/2026 06:07
-d4fd0607-5f30-4f4d-98b1-f908bda6bff5,tenuous.plumbing,available,72.99,72.99,medium,low,7,namesilo,,,11/09/2026 11:41
-eb891a76-dd1f-4aae-b971-bfa639fe8de4,profitably.plumbing,available,76.98,89.98,medium,low,10,namecheap,,,14/09/2026 20:29
-28922c5e-ed64-4211-ae25-0b70bfb6d3cb,ptolemaic.plumbing,available,14.99,94.99,medium,low,9,name.com,,,09/09/2026 05:10
-2020faa1-a612-41a5-859b-7265d0f89d7c,blat.plumbing,available,14.99,94.99,medium,low,4,name.com,,,10/08/2026 13:38
-1fc9ba93-6e3b-4005-9fdc-58548d171e5c,beardless.plumbing,available,14.99,94.99,medium,low,9,name.com,,,09/08/2026 04:43
-d06be038-1f95-44aa-8247-6f482d2ef205,autobahn.plumbing,available,72.99,72.99,high,low,8,namesilo,,,21/09/2026 05:50
-1e690809-8aa6-4572-b3e2-8de5fe883770,fling.plumbing,available,14.99,,high,low,5,name.com,,,
-c2ec4468-31dd-4717-a2f6-69dad1791055,lubricious.plumbing,available,14.99,94.99,medium,low,10,name.com,,,24/08/2026 10:50
-e74cdb6d-ed83-41fd-94d6-0f5556d1b0b9,rosemary.plumbing,available,72.99,72.99,high,low,8,namesilo,,,28/09/2026 10:51
-1e77e4c8-e9da-4a54-83a0-97c55e5db9a8,whiz.plumbing,available,76.98,89.98,high,low,4,namecheap,,,21/09/2026 18:01
-48780e45-3444-4f65-9575-7d915e6d0f88,saler.plumbing,available,14.99,,medium,low,5,name.com,,,
-8bfd81d1-b8bf-4b51-8f83-3ba83ba93506,scalar.plumbing,available,72.99,72.99,high,low,6,namesilo,,,09/09/2026 22:16
-cc2d33da-db5f-4e2c-9f32-8ef187fcb922,bucks.plumbing,available,76.98,89.98,high,low,5,namecheap,,,25/09/2026 13:26
-a58ce8f3-af05-4665-9392-5d2cc529b7ac,booth.plumbing,available,72.99,72.99,high,low,5,namesilo,,,24/09/2026 07:20
-f7d724b2-b074-4d6e-a4d0-5d98a4252bfa,honeyed.plumbing,available,14.99,94.99,medium,low,7,name.com,,,21/08/2026 13:23
-150b1010-45f8-4210-b2b0-aa76c6d5bee9,estival.plumbing,available,14.99,94.99,medium,low,7,name.com,,,
-ef3b54a0-dcc3-43f0-a2fa-b86632f11eaa,punily.plumbing,available,72.99,72.99,low,low,6,namesilo,,,15/09/2026 22:01
-256f1012-c9e0-4130-83f9-e6cb575a7622,danceable.plumbing,available,14.99,94.99,medium,low,9,name.com,,,13/08/2026 16:59
-d2b38e16-4164-4696-8c33-e9284fa67bba,allusion.plumbing,available,72.99,72.99,high,low,8,namesilo,,,18/09/2026 12:15
-18c06ad9-8e7f-484a-99d2-5585c81ae1e2,vents.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,21/09/2026 06:42
-f838da8e-f729-4a44-9b9f-8a9fdfd3d525,crowe.plumbing,available,72.99,72.99,medium,low,5,namesilo,,,28/09/2026 12:13
-fcb76886-bfaa-43fa-b4a1-42f6903eda23,auroral.plumbing,available,72.99,72.99,high,low,7,namesilo,,,22/09/2026 13:08
-bff253b6-74ab-4c02-93c4-1061d6b65096,dorm.plumbing,available,72.99,72.99,high,low,4,namesilo,,,24/09/2026 23:35
-39c3c801-1bca-4b25-8ceb-a90123f20b19,creatively.plumbing,available,56.2,56.2,medium,low,10,cloudflare,,,28/09/2026 14:25
-c6c06f33-f42e-4a61-a2dc-2990097be218,waco.plumbing,premium,68.51,68.51,high,low,4,spaceship,,,28/09/2026 06:51
-6c38b5d1-ac9e-43c4-abe0-7fa0a16f3a36,alton.plumbing,available,72.99,72.99,high,low,5,namesilo,,,27/09/2026 07:13
-6feb0a77-b3ab-4bd9-890c-da85d3b9e7ff,slips.plumbing,available,76.98,89.98,high,low,5,namecheap,,,17/09/2026 12:24
