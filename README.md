@@ -1,10 +1,10 @@
-# Available .PLUMBING One-Word Domains (33,075)
+# Available .PLUMBING One-Word Domains (35,449)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C075%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C449%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .plumbing one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,075 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,449 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,075 domains · **Median ask:** $56.11 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 35,449 domains · **Median ask:** $56.49 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/plumbing`
 **Best for:** founders, investors, studios
 
@@ -65,17 +65,17 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
 | ada.plumbing       | available | $76.98    | $89.98        | high           | medium | 3      | namecheap                   |
-| warwick.plumbing   | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo                    |
+| crewe.plumbing     | premium   | $72.60    | $72.60        | medium         | low    | 5      | dynadot                     |
 | afl.plumbing       | available | $76.98    | $89.98        | high           | low    | 3      | namecheap                   |
 | glendale.plumbing  | premium   | $109.53   | $218.86       | high           | low    | 8      | porkbun                     |
 | ams.plumbing       | available | $58.16    | $58.16        | high           | low    | 3      | spaceship                   |
 | westport.plumbing  | premium   | $242      | $242          | medium         | low    | 8      | namesilo                    |
 | bar.plumbing       | available | $58.16    | $58.16        | high           | low    | 3      | spaceship                   |
-| asheville.plumbing | premium   | $260      | $260          | high           | low    | 9      | namecheap                   |
-| bbl.plumbing       | available | $76.98    | $89.98        | high           | low    | 3      | namecheap                   |
 | kimberley.plumbing | premium   | $260      | $260          | medium         | low    | 9      | namecheap                   |
-| bjs.plumbing       | available | $76.98    | $89.98        | medium         | low    | 3      | namecheap                   |
+| bbl.plumbing       | available | $76.98    | $89.98        | high           | low    | 3      | namecheap                   |
 | reece.plumbing     | premium   | —         | —             | high           | medium | 5      | CSC Corporate Domains, Inc. |
+| bjs.plumbing       | available | $76.98    | $89.98        | medium         | low    | 3      | namecheap                   |
+| bse.plumbing       | available | $72.99    | $72.99        | medium         | low    | 3      | namesilo                    |
 | clv.plumbing       | available | $14.99    | $94.99        | high           | low    | 3      | name.com                    |
 | cxx.plumbing       | available | $14.99    | $94.99        | high           | low    | 3      | name.com                    |
 | dan.plumbing       | available | $72.99    | $72.99        | high           | medium | 3      | namesilo                    |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,075 live domains                        |
+| 1,000-row public sample | 35,449 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUMBING One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
